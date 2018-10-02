@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb40e46c-78cb-4d66-ac83-329ab06380d8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Cook（练习）/1.数据结构和算法/file.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Cook（练习）/1.数据结构和算法/file.1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Cook（练习）/1.数据结构和算法/file.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Cook（练习）/1.数据结构和算法/file.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Recoding_Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Recoding_Python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Cook（练习）/1.数据结构和算法/file.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Cook（练习）/1.数据结构和算法/file.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Cook（练习）/1.数据结构和算法/file.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Cook（练习）/1.数据结构和算法/file.4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Cook（练习）/1.数据结构和算法/file.5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Cook（练习）/1.数据结构和算法/file.5.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,8 +17,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Recoding_Python$file_1.coverage" NAME="file.1 Coverage Results" MODIFIED="1538032629898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Cook（练习）/1.数据结构和算法" />
+    <SUITE FILE_PATH="coverage/Recoding_Python$scriptHome_mongodb.coverage" NAME="scriptHome_mongodb Coverage Results" MODIFIED="1538452862879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/LIST_learning/脚本之家" />
+    <SUITE FILE_PATH="coverage/Recoding_Python$file_4.coverage" NAME="file.4 Coverage Results" MODIFIED="1538446333407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Cook（练习）/1.数据结构和算法" />
+    <SUITE FILE_PATH="coverage/Recoding_Python$scriptHome_linuxShell.coverage" NAME="scriptHome_linuxShell Coverage Results" MODIFIED="1538452608058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/LIST_learning/脚本之家" />
+    <SUITE FILE_PATH="coverage/Recoding_Python$scriptHome_mysql.coverage" NAME="scriptHome_mysql Coverage Results" MODIFIED="1538455964243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/LIST_learning/脚本之家" />
     <SUITE FILE_PATH="coverage/Recoding_Python$file_2.coverage" NAME="file.2 Coverage Results" MODIFIED="1538035614734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Cook（练习）/1.数据结构和算法" />
+    <SUITE FILE_PATH="coverage/Recoding_Python$scriptHome_javascript.coverage" NAME="scriptHome_javascript Coverage Results" MODIFIED="1538452856902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/LIST_learning/脚本之家" />
+    <SUITE FILE_PATH="coverage/Recoding_Python$scriptHome_redis.coverage" NAME="scriptHome_redis Coverage Results" MODIFIED="1538456203463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/LIST_learning/脚本之家" />
+    <SUITE FILE_PATH="coverage/Recoding_Python$scriptHome_ajax.coverage" NAME="scriptHome_ajax Coverage Results" MODIFIED="1538456301797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/LIST_learning/脚本之家" />
+    <SUITE FILE_PATH="coverage/Recoding_Python$file_1.coverage" NAME="file.1 Coverage Results" MODIFIED="1538032629898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Cook（练习）/1.数据结构和算法" />
+    <SUITE FILE_PATH="coverage/Recoding_Python$scriptHome_python.coverage" NAME="scriptHome_python Coverage Results" MODIFIED="1538451765921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$" />
+    <SUITE FILE_PATH="coverage/Recoding_Python$file_3.coverage" NAME="file.3 Coverage Results" MODIFIED="1538445350346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Cook（练习）/1.数据结构和算法" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="1160043619">
@@ -46,33 +59,65 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-1701529629">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="3663" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="3663" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="11" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python_Cook（练习）/1.数据结构和算法/file.1.py">
+        <entry file="file://$PROJECT_DIR$/Python_Cook（练习）/1.数据结构和算法/file.4.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="39" column="24" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
+            <state relative-caret-position="629">
+              <caret line="51" column="58" selection-start-line="51" selection-start-column="58" selection-end-line="51" selection-end-column="58" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Python_Cook（练习）/1.数据结构和算法/file.2.py">
+        <entry file="file://$PROJECT_DIR$/Python_Cook（练习）/1.数据结构和算法/file.5.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="70" />
-              <folding>
-                <marker date="1538035614672" expanded="true" signature="209:214" ph="..." />
-                <marker date="1538035614672" expanded="true" signature="724:729" ph="..." />
-                <marker date="1538035614672" expanded="true" signature="761:766" ph="..." />
-              </folding>
+            <state>
+              <caret column="12" selection-start-column="12" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>python</find>
+      <find>python使用多进程的实例详解</find>
+      <find>Python 正则表达式操作指南</find>
+      <find>expensive</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -82,6 +127,16 @@
       <list>
         <option value="$PROJECT_DIR$/Python_Cook（练习）/1.数据结构和算法/file.1.py" />
         <option value="$PROJECT_DIR$/Python_Cook（练习）/1.数据结构和算法/file.2.py" />
+        <option value="$PROJECT_DIR$/Python_Cook（练习）/1.数据结构和算法/file.3.py" />
+        <option value="$USER_HOME$/scriptHome_python.py" />
+        <option value="$USER_HOME$/LIST_learning/脚本之家/scriptHome_linuxShell.py" />
+        <option value="$USER_HOME$/LIST_learning/脚本之家/scriptHome_javascript.py" />
+        <option value="$USER_HOME$/LIST_learning/脚本之家/scriptHome_mongodb.py" />
+        <option value="$USER_HOME$/LIST_learning/脚本之家/scriptHome_mysql.py" />
+        <option value="$USER_HOME$/LIST_learning/脚本之家/scriptHome_redis.py" />
+        <option value="$USER_HOME$/LIST_learning/脚本之家/scriptHome_ajax.py" />
+        <option value="$PROJECT_DIR$/Python_Cook（练习）/1.数据结构和算法/file.4.py" />
+        <option value="$PROJECT_DIR$/Python_Cook（练习）/1.数据结构和算法/file.5.py" />
       </list>
     </option>
   </component>
@@ -92,10 +147,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="237" />
-    <option name="y" value="129" />
-    <option name="width" value="747" />
-    <option name="height" value="826" />
+    <option name="x" value="384" />
+    <option name="y" value="68" />
+    <option name="width" value="1167" />
+    <option name="height" value="832" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -130,9 +185,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/LIST_learning/脚本之家" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -146,21 +202,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.file.2">
-    <configuration name="file.1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Recoding_Python" />
+  <component name="RunManager" selected="Python.scriptHome_ajax">
+    <configuration name="scriptHome_ajax" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="脚本之家" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Cook（练习）/1.数据结构和算法" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../LIST_learning/脚本之家" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Cook（练习）/1.数据结构和算法/file.1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../LIST_learning/脚本之家/scriptHome_ajax.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -169,20 +225,86 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="file.2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Recoding_Python" />
+    <configuration name="scriptHome_javascript" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="脚本之家" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Cook（练习）/1.数据结构和算法" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../LIST_learning/脚本之家" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Cook（练习）/1.数据结构和算法/file.2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../LIST_learning/脚本之家/scriptHome_javascript.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="scriptHome_mongodb" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="脚本之家" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../LIST_learning/脚本之家" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../LIST_learning/脚本之家/scriptHome_mongodb.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="scriptHome_mysql" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="脚本之家" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../LIST_learning/脚本之家" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../LIST_learning/脚本之家/scriptHome_mysql.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="scriptHome_redis" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="脚本之家" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../LIST_learning/脚本之家" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../LIST_learning/脚本之家/scriptHome_redis.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -192,13 +314,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.file.1" />
-      <item itemvalue="Python.file.2" />
+      <item itemvalue="Python.scriptHome_javascript" />
+      <item itemvalue="Python.scriptHome_mongodb" />
+      <item itemvalue="Python.scriptHome_mysql" />
+      <item itemvalue="Python.scriptHome_redis" />
+      <item itemvalue="Python.scriptHome_ajax" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.file.2" />
-        <item itemvalue="Python.file.1" />
+        <item itemvalue="Python.scriptHome_ajax" />
+        <item itemvalue="Python.scriptHome_redis" />
+        <item itemvalue="Python.scriptHome_mysql" />
+        <item itemvalue="Python.scriptHome_mongodb" />
+        <item itemvalue="Python.scriptHome_javascript" />
       </list>
     </recent_temporary>
   </component>
@@ -216,31 +344,31 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1366" height="718" extended-state="6" />
+    <frame x="0" y="0" width="1440" height="850" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18436155" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32991454" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.26638773" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Mongo Explorer" />
-      <window_info anchor="right" id="SciView" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Mongo Explorer" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -252,20 +380,44 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Python_Cook（练习）/1.数据结构和算法/file.1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
+        <state relative-caret-position="741">
           <caret line="39" column="24" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Python_Cook（练习）/1.数据结构和算法/file.2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="70" />
-          <folding>
-            <marker date="1538035614672" expanded="true" signature="209:214" ph="..." />
-            <marker date="1538035614672" expanded="true" signature="724:729" ph="..." />
-            <marker date="1538035614672" expanded="true" signature="761:766" ph="..." />
-          </folding>
+        <state relative-caret-position="478">
+          <caret line="70" selection-start-line="70" selection-end-line="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Cook（练习）/1.数据结构和算法/file.3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="79" column="19" selection-start-line="79" selection-start-column="19" selection-end-line="79" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/scriptHome_python.py" />
+    <entry file="file://$USER_HOME$/LIST_learning/脚本之家/scriptHome_python.py" />
+    <entry file="file://$USER_HOME$/LIST_learning/脚本之家/scriptHome_linuxShell.py" />
+    <entry file="file://$USER_HOME$/LIST_learning/脚本之家/scriptHome_mongodb.py" />
+    <entry file="file://$USER_HOME$/LIST_learning/脚本之家/scriptHome_javascript.py" />
+    <entry file="file://$USER_HOME$/LIST_learning/脚本之家/scriptHome_mysql.py" />
+    <entry file="file://$USER_HOME$/LIST_learning/脚本之家/scriptHome_redis.py" />
+    <entry file="file://$USER_HOME$/LIST_learning/脚本之家/scriptHome_ajax.py" />
+    <entry file="file://$PROJECT_DIR$/Python_Cook（练习）/1.数据结构和算法/file.4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="51" column="58" selection-start-line="51" selection-start-column="58" selection-end-line="51" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Cook（练习）/1.数据结构和算法/file.5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
         </state>
       </provider>
     </entry>
