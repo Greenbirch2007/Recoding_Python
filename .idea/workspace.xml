@@ -3,23 +3,19 @@
   <component name="ChangeListManager">
     <list default="true" id="eb40e46c-78cb-4d66-ac83-329ab06380d8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Cook（练习）/8.类与对象/file.10.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Cook（练习）/8.类与对象/file.10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Cook（练习）/8.类与对象/file.11.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Cook（练习）/8.类与对象/file.11.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Cook（练习）/8.类与对象/file.12.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Cook（练习）/8.类与对象/file.12.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Cook（练习）/8.类与对象/file.13.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Cook（练习）/8.类与对象/file.13.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Cook（练习）/8.类与对象/file.14.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Cook（练习）/8.类与对象/file.14.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Cook（练习）/8.类与对象/file.15.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Cook（练习）/8.类与对象/file.15.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Cook（练习）/8.类与对象/file.16.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Cook（练习）/8.类与对象/file.16.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Cook（练习）/8.类与对象/file.17.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Cook（练习）/8.类与对象/file.17.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Cook（练习）/8.类与对象/file.18.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Cook（练习）/8.类与对象/file.18.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Cook（练习）/8.类与对象/file.19.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Cook（练习）/8.类与对象/file.19.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Cook（练习）/8.类与对象/file.20.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Cook（练习）/8.类与对象/file.20.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Cook（练习）/8.类与对象/file.21.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Cook（练习）/8.类与对象/file.21.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Cook（练习）/8.类与对象/file.22.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Cook（练习）/8.类与对象/file.22.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Cook（练习）/8.类与对象/file.23.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Cook（练习）/8.类与对象/file.23.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Cook（练习）/8.类与对象/file.24.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Cook（练习）/8.类与对象/file.24.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Cook（练习）/8.类与对象/file.25.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Cook（练习）/8.类与对象/file.25.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Python_Cook（练习）/9.元编程/file.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Cook（练习）/9.元编程/file.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Cook（练习）/9.元编程/file.10.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Cook（练习）/9.元编程/file.10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Cook（练习）/9.元编程/file.11.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Cook（练习）/9.元编程/file.11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Cook（练习）/9.元编程/file.12.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Cook（练习）/9.元编程/file.12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Cook（练习）/9.元编程/file.13.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Cook（练习）/9.元编程/file.13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Cook（练习）/9.元编程/file.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Cook（练习）/9.元编程/file.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Cook（练习）/9.元编程/file.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Cook（练习）/9.元编程/file.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Cook（练习）/9.元编程/file.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Cook（练习）/9.元编程/file.4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Cook（练习）/9.元编程/file.5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Cook（练习）/9.元编程/file.5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Cook（练习）/9.元编程/file.6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Cook（练习）/9.元编程/file.6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Cook（练习）/9.元编程/file.7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Cook（练习）/9.元编程/file.7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Cook（练习）/9.元编程/file.8.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Cook（练习）/9.元编程/file.8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Cook（练习）/9.元编程/file.9.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Cook（练习）/9.元编程/file.9.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,33 +47,35 @@
           <entry key="project.open.time.10" value="3" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.12" value="1" />
-          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.14" value="2" />
           <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.25" value="1" />
           <entry key="project.open.time.26" value="2" />
           <entry key="project.open.time.37" value="1" />
+          <entry key="project.open.time.38" value="1" />
           <entry key="project.open.time.39" value="2" />
           <entry key="project.open.time.9" value="6" />
-          <entry key="project.opened" value="19" />
+          <entry key="project.opened" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="48" />
+          <entry key="py" value="67" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="48" />
+          <entry key="Python" value="67" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="50583" />
+          <entry key="py" value="70392" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="50583" />
+          <entry key="Python" value="70392" />
         </counts>
       </usages-collector>
     </session>
@@ -116,82 +114,49 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python_Cook（练习）/8.类与对象/file.20.py">
+        <entry file="file://$PROJECT_DIR$/Python_Cook（练习）/9.元编程/file.11.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="50" selection-start-line="23" selection-start-column="50" selection-end-line="23" selection-end-column="50" />
+            <state relative-caret-position="1887">
+              <caret line="112" column="14" selection-start-line="112" selection-start-column="14" selection-end-line="112" selection-end-column="14" />
               <folding>
-                <marker date="1542007867484" expanded="true" signature="141:142" ph="..." />
+                <marker date="1542186740326" expanded="true" signature="247:256" ph="..." />
+                <marker date="1542186740326" expanded="true" signature="519:528" ph="..." />
+                <marker date="1542186740326" expanded="true" signature="702:711" ph="..." />
+                <marker date="1542186740326" expanded="true" signature="785:794" ph="..." />
+                <marker date="1542186740326" expanded="true" signature="866:875" ph="..." />
+                <marker date="1542186740326" expanded="true" signature="979:990" ph="..." />
+                <marker date="1542186740326" expanded="true" signature="1042:1053" ph="..." />
+                <marker date="1542186740326" expanded="true" signature="1103:1114" ph="..." />
+                <marker date="1542186740326" expanded="true" signature="2544:2549" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python_Cook（练习）/8.类与对象/file.21.py">
+        <entry file="file://$PROJECT_DIR$/Python_Cook（练习）/9.元编程/file.12.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python_Cook（练习）/8.类与对象/file.22.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python_Cook（练习）/8.类与对象/file.23.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="54" column="24" selection-start-line="54" selection-start-column="24" selection-end-line="54" selection-end-column="24" />
+            <state relative-caret-position="501">
+              <caret line="58" column="53" selection-start-line="58" selection-start-column="53" selection-end-line="58" selection-end-column="53" />
               <folding>
-                <marker date="1542009493833" expanded="true" signature="207:212" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python_Cook（练习）/8.类与对象/file.24.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python_Cook（练习）/8.类与对象/file.25.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="244">
-              <caret line="69" column="59" selection-start-line="69" selection-start-column="59" selection-end-line="69" selection-end-column="59" />
-              <folding>
-                <marker date="1542010299087" expanded="true" signature="859:864" ph="..." />
+                <marker date="1542189559155" expanded="true" signature="164:165" ph="..." />
+                <marker date="1542189559155" expanded="true" signature="672:677" ph="..." />
+                <marker date="1542189559155" expanded="true" signature="827:832" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Python_Cook（练习）/9.元编程/file.1.py">
+        <entry file="file://$PROJECT_DIR$/Python_Cook（练习）/9.元编程/file.13.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="8" selection-start-column="8" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python_Cook（练习）/7.函数/file.3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
+            <state relative-caret-position="312">
+              <caret line="25" column="28" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+              <folding>
+                <marker date="1542191965716" expanded="true" signature="127:132" ph="..." />
+                <marker date="1542191965716" expanded="true" signature="319:324" ph="..." />
+                <marker date="1542191965716" expanded="true" signature="462:467" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -212,18 +177,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$USER_HOME$/LIST_learning/脚本之家/scriptHome_redis.py" />
-        <option value="$USER_HOME$/LIST_learning/脚本之家/scriptHome_ajax.py" />
-        <option value="$PROJECT_DIR$/Python_Cook（练习）/1.数据结构和算法/file.4.py" />
-        <option value="$PROJECT_DIR$/Python_Cook（练习）/1.数据结构和算法/file.5.py" />
-        <option value="$PROJECT_DIR$/Python_Cook（练习）/1.数据结构和算法/file.6.py" />
-        <option value="$PROJECT_DIR$/Python_Cook（练习）/1.数据结构和算法/file.7.py" />
-        <option value="$PROJECT_DIR$/Python_Cook（练习）/1.数据结构和算法/file.13.py" />
-        <option value="$PROJECT_DIR$/Python_Cook（练习）/1.数据结构和算法/file.14.py" />
-        <option value="$PROJECT_DIR$/Python_Cook（练习）/1.数据结构和算法/file.15.py" />
-        <option value="$PROJECT_DIR$/Python_Cook（练习）/1.数据结构和算法/file.16.py" />
-        <option value="$PROJECT_DIR$/Python_Cook（练习）/1.数据结构和算法/file.17.py" />
-        <option value="$PROJECT_DIR$/Python_Cook（练习）/1.数据结构和算法/file.18.py" />
         <option value="$PROJECT_DIR$/Python_Cook（练习）/1.数据结构和算法/file.19.py" />
         <option value="$PROJECT_DIR$/Python_Cook（练习）/1.数据结构和算法/file.20.py" />
         <option value="$PROJECT_DIR$/Python_Cook（练习）/2.字符串和文本/file.1.py" />
@@ -263,6 +216,18 @@
         <option value="$PROJECT_DIR$/Python_Cook（练习）/8.类与对象/file.24.py" />
         <option value="$PROJECT_DIR$/Python_Cook（练习）/8.类与对象/file.25.py" />
         <option value="$PROJECT_DIR$/Python_Cook（练习）/9.元编程/file.1.py" />
+        <option value="$PROJECT_DIR$/Python_Cook（练习）/9.元编程/file.2.py" />
+        <option value="$PROJECT_DIR$/Python_Cook（练习）/9.元编程/file.3.py" />
+        <option value="$PROJECT_DIR$/Python_Cook（练习）/9.元编程/file.4.py" />
+        <option value="$PROJECT_DIR$/Python_Cook（练习）/9.元编程/file.5.py" />
+        <option value="$PROJECT_DIR$/Python_Cook（练习）/9.元编程/file.6.py" />
+        <option value="$PROJECT_DIR$/Python_Cook（练习）/9.元编程/file.7.py" />
+        <option value="$PROJECT_DIR$/Python_Cook（练习）/9.元编程/file.8.py" />
+        <option value="$PROJECT_DIR$/Python_Cook（练习）/9.元编程/file.9.py" />
+        <option value="$PROJECT_DIR$/Python_Cook（练习）/9.元编程/file.10.py" />
+        <option value="$PROJECT_DIR$/Python_Cook（练习）/9.元编程/file.11.py" />
+        <option value="$PROJECT_DIR$/Python_Cook（练习）/9.元编程/file.12.py" />
+        <option value="$PROJECT_DIR$/Python_Cook（练习）/9.元编程/file.13.py" />
       </list>
     </option>
   </component>
@@ -284,7 +249,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -301,18 +265,13 @@
               <item name="Recoding_Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Recoding_Python" type="462c0819:PsiDirectoryNode" />
               <item name="Python_Cook（练习）" type="462c0819:PsiDirectoryNode" />
-              <item name="8.类与对象" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Recoding_Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Recoding_Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Python_Cook（练习）" type="462c0819:PsiDirectoryNode" />
               <item name="9.元编程" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -334,8 +293,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.file.25">
-    <configuration name="file.11 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.file.13">
+    <configuration name="file.10" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Recoding_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -343,11 +302,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Cook（练习）/8.类与对象" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Cook（练习）/9.元编程" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Cook（练习）/8.类与对象/file.11.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Cook（练习）/9.元编程/file.10.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -356,7 +315,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="file.14" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="file.11" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Recoding_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -364,11 +323,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Cook（练习）/8.类与对象" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Cook（练习）/9.元编程" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Cook（练习）/8.类与对象/file.14.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Cook（练习）/9.元编程/file.11.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -377,7 +336,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="file.16" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="file.12" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Recoding_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -385,11 +344,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Cook（练习）/8.类与对象" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Cook（练习）/9.元编程" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Cook（练习）/8.类与对象/file.16.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Cook（练习）/9.元编程/file.12.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -398,7 +357,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="file.23" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="file.13" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Recoding_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -406,11 +365,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Cook（练习）/8.类与对象" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Cook（练习）/9.元编程" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Cook（练习）/8.类与对象/file.23.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Cook（练习）/9.元编程/file.13.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -419,7 +378,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="file.25" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="file.9" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Recoding_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -427,11 +386,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Cook（练习）/8.类与对象" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Cook（练习）/9.元编程" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Cook（练习）/8.类与对象/file.25.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Cook（练习）/9.元编程/file.9.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -441,19 +400,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.file.11 (1)" />
-      <item itemvalue="Python.file.14" />
-      <item itemvalue="Python.file.16" />
-      <item itemvalue="Python.file.23" />
-      <item itemvalue="Python.file.25" />
+      <item itemvalue="Python.file.9" />
+      <item itemvalue="Python.file.10" />
+      <item itemvalue="Python.file.11" />
+      <item itemvalue="Python.file.12" />
+      <item itemvalue="Python.file.13" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.file.25" />
-        <item itemvalue="Python.file.23" />
-        <item itemvalue="Python.file.16" />
-        <item itemvalue="Python.file.14" />
-        <item itemvalue="Python.file.11 (1)" />
+        <item itemvalue="Python.file.13" />
+        <item itemvalue="Python.file.12" />
+        <item itemvalue="Python.file.11" />
+        <item itemvalue="Python.file.10" />
+        <item itemvalue="Python.file.9" />
       </list>
     </recent_temporary>
   </component>
@@ -474,12 +433,12 @@
     <frame x="0" y="0" width="1366" height="718" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19318181" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19318181" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32307693" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32307693" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -550,78 +509,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/LIST_learning/脚本之家/scriptHome_redis.py" />
-    <entry file="file://$USER_HOME$/LIST_learning/脚本之家/scriptHome_ajax.py" />
-    <entry file="file://$PROJECT_DIR$/Python_Cook（练习）/1.数据结构和算法/file.4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="867">
-          <caret line="51" column="58" selection-start-line="51" selection-start-column="58" selection-end-line="51" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python_Cook（练习）/1.数据结构和算法/file.5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1241">
-          <caret line="73" selection-start-line="73" selection-end-line="73" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python_Cook（练习）/1.数据结构和算法/file.6.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1292">
-          <caret line="76" column="27" selection-start-line="76" selection-start-column="27" selection-end-line="76" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python_Cook（练习）/1.数据结构和算法/file.7.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="62" lean-forward="true" selection-start-line="4" selection-start-column="62" selection-end-line="4" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python_Cook（练习）/1.数据结构和算法/file.13.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1156">
-          <caret line="68" column="13" selection-start-line="68" selection-start-column="13" selection-end-line="68" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python_Cook（练习）/1.数据结构和算法/file.14.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="40" column="52" selection-start-line="40" selection-end-line="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python_Cook（练习）/1.数据结构和算法/file.15.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1003">
-          <caret line="60" selection-start-line="60" selection-end-line="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python_Cook（练习）/1.数据结构和算法/file.16.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1564">
-          <caret line="92" column="19" selection-start-line="92" selection-start-column="19" selection-end-line="92" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python_Cook（练习）/1.数据结构和算法/file.17.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="44" selection-start-line="44" selection-end-line="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python_Cook（练习）/1.数据结构和算法/file.18.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1717">
-          <caret line="101" selection-start-line="101" selection-end-line="101" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Python_Cook（练习）/1.数据结构和算法/file.19.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1258">
@@ -773,21 +660,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2295">
           <caret line="135" selection-start-line="135" selection-end-line="135" />
-          <folding>
-            <marker date="1541983934263" expanded="true" signature="109:114" ph="..." />
-            <marker date="1541983934263" expanded="true" signature="163:168" ph="..." />
-            <marker date="1541983934263" expanded="true" signature="315:320" ph="..." />
-            <marker date="1541983934263" expanded="true" signature="368:439" ph="..." />
-            <marker date="1541983934263" expanded="true" signature="486:491" ph="..." />
-            <marker date="1541983934263" expanded="true" signature="1137:1196" ph="..." />
-            <marker date="1541983934263" expanded="true" signature="1254:1261" ph="..." />
-            <marker date="1541983934263" expanded="true" signature="1332:1339" ph="..." />
-            <marker date="1541983934263" expanded="true" signature="1438:1445" ph="..." />
-            <marker date="1541983934263" expanded="true" signature="1539:1546" ph="..." />
-            <marker date="1541983934263" expanded="true" signature="2359:2364" ph="..." />
-            <marker date="1541983934263" expanded="true" signature="2436:2441" ph="..." />
-            <marker date="1541983934263" expanded="true" signature="2498:2503" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -858,9 +730,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="23" column="50" selection-start-line="23" selection-start-column="50" selection-end-line="23" selection-end-column="50" />
-          <folding>
-            <marker date="1542007867484" expanded="true" signature="141:142" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -880,11 +749,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Python_Cook（练习）/8.类与对象/file.23.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
+        <state relative-caret-position="918">
           <caret line="54" column="24" selection-start-line="54" selection-start-column="24" selection-end-line="54" selection-end-column="24" />
-          <folding>
-            <marker date="1542009493833" expanded="true" signature="207:212" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -895,27 +761,129 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Cook（练习）/8.类与对象/file.25.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1173">
+          <caret line="69" column="59" selection-start-line="69" selection-start-column="59" selection-end-line="69" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Python_Cook（练习）/7.函数/file.3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
+        <state relative-caret-position="433">
           <caret line="26" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python_Cook（练习）/8.类与对象/file.25.py">
+    <entry file="file://$PROJECT_DIR$/Python_Cook（练习）/9.元编程/file.4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="69" column="59" selection-start-line="69" selection-start-column="59" selection-end-line="69" selection-end-column="59" />
-          <folding>
-            <marker date="1542010299087" expanded="true" signature="859:864" ph="..." />
-          </folding>
+        <state relative-caret-position="312">
+          <caret line="67" selection-start-line="67" selection-end-line="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Cook（练习）/9.元编程/file.5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="139" column="33" selection-start-line="139" selection-start-column="33" selection-end-line="139" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Cook（练习）/9.元编程/file.3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1190">
+          <caret line="70" column="28" selection-start-line="70" selection-start-column="28" selection-end-line="70" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Python_Cook（练习）/9.元编程/file.1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="8" />
+        <state relative-caret-position="510">
+          <caret line="32" column="18" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Cook（练习）/9.元编程/file.2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" selection-start-line="15" selection-end-line="24" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Cook（练习）/9.元编程/file.6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="501">
+          <caret line="81" column="69" selection-start-line="81" selection-start-column="69" selection-end-line="81" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Cook（练习）/9.元编程/file.7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="105" selection-start-line="105" selection-end-line="105" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Cook（练习）/9.元编程/file.8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="81" column="20" selection-start-line="81" selection-start-column="20" selection-end-line="81" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Cook（练习）/9.元编程/file.9.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="93" column="16" selection-start-line="93" selection-start-column="16" selection-end-line="93" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Cook（练习）/9.元编程/file.10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="67" column="38" selection-start-line="67" selection-start-column="38" selection-end-line="67" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Cook（练习）/9.元编程/file.11.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1887">
+          <caret line="112" column="14" selection-start-line="112" selection-start-column="14" selection-end-line="112" selection-end-column="14" />
+          <folding>
+            <marker date="1542186740326" expanded="true" signature="247:256" ph="..." />
+            <marker date="1542186740326" expanded="true" signature="519:528" ph="..." />
+            <marker date="1542186740326" expanded="true" signature="702:711" ph="..." />
+            <marker date="1542186740326" expanded="true" signature="785:794" ph="..." />
+            <marker date="1542186740326" expanded="true" signature="866:875" ph="..." />
+            <marker date="1542186740326" expanded="true" signature="979:990" ph="..." />
+            <marker date="1542186740326" expanded="true" signature="1042:1053" ph="..." />
+            <marker date="1542186740326" expanded="true" signature="1103:1114" ph="..." />
+            <marker date="1542186740326" expanded="true" signature="2544:2549" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Cook（练习）/9.元编程/file.12.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="501">
+          <caret line="58" column="53" selection-start-line="58" selection-start-column="53" selection-end-line="58" selection-end-column="53" />
+          <folding>
+            <marker date="1542189559155" expanded="true" signature="164:165" ph="..." />
+            <marker date="1542189559155" expanded="true" signature="672:677" ph="..." />
+            <marker date="1542189559155" expanded="true" signature="827:832" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Cook（练习）/9.元编程/file.13.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="25" column="28" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+          <folding>
+            <marker date="1542191965716" expanded="true" signature="127:132" ph="..." />
+            <marker date="1542191965716" expanded="true" signature="319:324" ph="..." />
+            <marker date="1542191965716" expanded="true" signature="462:467" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
