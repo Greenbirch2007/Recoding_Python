@@ -1,10 +1,825 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/Python_Cook（练习）/10.模块和包/file.3.py" line="24" />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="eb40e46c-78cb-4d66-ac83-329ab06380d8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/1.欢迎来到Python世界/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/1.欢迎来到Python世界/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/1.欢迎来到Python世界/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/1.欢迎来到Python世界/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/1.欢迎来到Python世界/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/1.欢迎来到Python世界/file.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/1.欢迎来到Python世界/file.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/1.欢迎来到Python世界/file.8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/1.欢迎来到Python世界/file.9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/2.快速入门/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/2.快速入门/file.10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/2.快速入门/file.11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/2.快速入门/file.12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/2.快速入门/file.13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/2.快速入门/file.14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/2.快速入门/file.15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/2.快速入门/file.16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/2.快速入门/file.17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/2.快速入门/file.18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/2.快速入门/file.19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/2.快速入门/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/2.快速入门/file.20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/2.快速入门/file.21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/2.快速入门/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/2.快速入门/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/2.快速入门/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/2.快速入门/file.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/2.快速入门/file.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/2.快速入门/file.8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/2.快速入门/file.9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/23.其他话题/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/23.其他话题/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/23.其他话题/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/23.其他话题/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１０．错误和异常/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１０．错误和异常/file.10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１０．错误和异常/file.11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１０．错误和异常/file.12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１０．错误和异常/file.13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１０．错误和异常/file.14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１０．错误和异常/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１０．错误和异常/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１０．错误和异常/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１０．错误和异常/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１０．错误和异常/file.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１０．错误和异常/file.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１０．错误和异常/file.8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１０．错误和异常/file.9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１１．函数和函数式编程/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１１．函数和函数式编程/file.10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１１．函数和函数式编程/file.11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１１．函数和函数式编程/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１１．函数和函数式编程/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１１．函数和函数式编程/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１１．函数和函数式编程/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１１．函数和函数式编程/file.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１１．函数和函数式编程/file.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１１．函数和函数式编程/file.8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１１．函数和函数式编程/file.9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１２．模块/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１２．模块/file.10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１２．模块/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１２．模块/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１２．模块/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１２．模块/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１２．模块/file.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１２．模块/file.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１２．模块/file.8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１２．模块/file.9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１３．面向对象编程/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１３．面向对象编程/file.10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１３．面向对象编程/file.11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１３．面向对象编程/file.12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１３．面向对象编程/file.13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１３．面向对象编程/file.14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１３．面向对象编程/file.15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１３．面向对象编程/file.16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１３．面向对象编程/file.17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１３．面向对象编程/file.18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１３．面向对象编程/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１３．面向对象编程/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１３．面向对象编程/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１３．面向对象编程/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１３．面向对象编程/file.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１３．面向对象编程/file.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１３．面向对象编程/file.8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１３．面向对象编程/file.9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１４．执行环境/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１４．执行环境/file.10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１４．执行环境/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１４．执行环境/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１４．执行环境/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１４．执行环境/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１４．执行环境/file.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１４．执行环境/file.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１４．执行环境/file.8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１４．执行环境/file.9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１５．正则表达式/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１５．正则表达式/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１５．正则表达式/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１５．正则表达式/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１５．正则表达式/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１６．网络编程/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１６．网络编程/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１６．网络编程/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１６．网络编程/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１６．网络编程/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１６．网络编程/file.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１６．网络编程/file.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１７．网络客户端编程/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１７．网络客户端编程/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１７．网络客户端编程/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１７．网络客户端编程/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１７．网络客户端编程/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１７．网络客户端编程/file.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１８．多线程编程/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１８．多线程编程/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１８．多线程编程/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１８．多线程编程/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１８．多线程编程/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１８．多线程编程/file.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１８．多线程编程/file.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１９．图形用户界面编程/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１９．图形用户界面编程/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１９．图形用户界面编程/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１９．图形用户界面编程/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１９．图形用户界面编程/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/１９．图形用户界面编程/file.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/２０．web编程/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/２０．web编程/file.10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/２０．web编程/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/２０．web编程/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/２０．web编程/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/２０．web编程/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/２０．web编程/file.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/２０．web编程/file.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/２０．web编程/file.8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/２０．web编程/file.9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/２１．数据库编程/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/２１．数据库编程/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/２１．数据库编程/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/２１．数据库编程/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/２１．数据库编程/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/２２．扩展Python/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/２２．扩展Python/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/２２．扩展Python/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/２２．扩展Python/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/３．Python基础/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/３．Python基础/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/３．Python基础/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/３．Python基础/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/３．Python基础/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/３．Python基础/file.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/３．Python基础/file.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/３．Python基础/file.8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/４．Python对象/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/４．Python对象/file.10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/４．Python对象/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/４．Python对象/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/４．Python对象/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/４．Python对象/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/４．Python对象/file.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/４．Python对象/file.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/４．Python对象/file.8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/４．Python对象/file.9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/５．数字/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/５．数字/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/５．数字/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/５．数字/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/５．数字/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/５．数字/file.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/５．数字/file.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/５．数字/file.8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/５．数字/file.9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/６．序列：字符串，列表和元组/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/６．序列：字符串，列表和元组/file.10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/６．序列：字符串，列表和元组/file.11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/６．序列：字符串，列表和元组/file.12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/６．序列：字符串，列表和元组/file.13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/６．序列：字符串，列表和元组/file.14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/６．序列：字符串，列表和元组/file.15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/６．序列：字符串，列表和元组/file.16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/６．序列：字符串，列表和元组/file.17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/６．序列：字符串，列表和元组/file.18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/６．序列：字符串，列表和元组/file.19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/６．序列：字符串，列表和元组/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/６．序列：字符串，列表和元组/file.20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/６．序列：字符串，列表和元组/file.21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/６．序列：字符串，列表和元组/file.22.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/６．序列：字符串，列表和元组/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/６．序列：字符串，列表和元组/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/６．序列：字符串，列表和元组/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/６．序列：字符串，列表和元组/file.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/６．序列：字符串，列表和元组/file.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/６．序列：字符串，列表和元组/file.8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/６．序列：字符串，列表和元组/file.9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/７．映像和集合类型/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/７．映像和集合类型/file.10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/７．映像和集合类型/file.11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/７．映像和集合类型/file.12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/７．映像和集合类型/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/７．映像和集合类型/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/７．映像和集合类型/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/７．映像和集合类型/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/７．映像和集合类型/file.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/７．映像和集合类型/file.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/７．映像和集合类型/file.8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/７．映像和集合类型/file.9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/８．条件和循环/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/８．条件和循环/file.10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/８．条件和循环/file.11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/８．条件和循环/file.12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/８．条件和循环/file.13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/８．条件和循环/file.14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/８．条件和循环/file.15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/８．条件和循环/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/８．条件和循环/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/８．条件和循环/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/８．条件和循环/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/８．条件和循环/file.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/８．条件和循环/file.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/８．条件和循环/file.8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/８．条件和循环/file.9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/９．文件和输入输出/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/９．文件和输入输出/file.10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/９．文件和输入输出/file.11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/９．文件和输入输出/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/９．文件和输入输出/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/９．文件和输入输出/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/９．文件和输入输出/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/９．文件和输入输出/file.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/９．文件和输入输出/file.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/９．文件和输入输出/file.8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python 核心编程2th/９．文件和输入输出/file.9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3面向对象编程/１．面向对象设计/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3面向对象编程/１．面向对象设计/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3面向对象编程/１．面向对象设计/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3面向对象编程/１．面向对象设计/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3面向对象编程/１．面向对象设计/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3面向对象编程/１．面向对象设计/file.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3面向对象编程/１０．文件和字符串/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3面向对象编程/１０．文件和字符串/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3面向对象编程/１０．文件和字符串/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3面向对象编程/１０．文件和字符串/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3面向对象编程/１０．文件和字符串/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3面向对象编程/１０．文件和字符串/file.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3面向对象编程/１１．测试面向对象的程序/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3面向对象编程/１１．测试面向对象的程序/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3面向对象编程/１１．测试面向对象的程序/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3面向对象编程/１１．测试面向对象的程序/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3面向对象编程/１１．测试面向对象的程序/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3面向对象编程/１１．测试面向对象的程序/file.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3面向对象编程/１２．常用Python３库/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3面向对象编程/１２．常用Python３库/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3面向对象编程/１２．常用Python３库/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3面向对象编程/１２．常用Python３库/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3面向对象编程/１２．常用Python３库/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3面向对象编程/１２．常用Python３库/file.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3面向对象编程/２．Python对象/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3面向对象编程/２．Python对象/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3面向对象编程/２．Python对象/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3面向对象编程/２．Python对象/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3面向对象编程/２．Python对象/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3面向对象编程/２．Python对象/file.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3面向对象编程/３．当对象是相似的/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3面向对象编程/３．当对象是相似的/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3面向对象编程/３．当对象是相似的/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3面向对象编程/３．当对象是相似的/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3面向对象编程/３．当对象是相似的/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3面向对象编程/３．当对象是相似的/file.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3面向对象编程/４．异常处理/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3面向对象编程/４．异常处理/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3面向对象编程/４．异常处理/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3面向对象编程/４．异常处理/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3面向对象编程/４．异常处理/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3面向对象编程/４．异常处理/file.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3面向对象编程/５．何时使用面向对此编程/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3面向对象编程/５．何时使用面向对此编程/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3面向对象编程/５．何时使用面向对此编程/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3面向对象编程/５．何时使用面向对此编程/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3面向对象编程/５．何时使用面向对此编程/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3面向对象编程/５．何时使用面向对此编程/file.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3面向对象编程/６．Python数据结构/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3面向对象编程/６．Python数据结构/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3面向对象编程/６．Python数据结构/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3面向对象编程/６．Python数据结构/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3面向对象编程/６．Python数据结构/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3面向对象编程/６．Python数据结构/file.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3面向对象编程/７．Ｐython里面面向对象的快捷方式/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3面向对象编程/７．Ｐython里面面向对象的快捷方式/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3面向对象编程/７．Ｐython里面面向对象的快捷方式/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3面向对象编程/７．Ｐython里面面向对象的快捷方式/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3面向对象编程/７．Ｐython里面面向对象的快捷方式/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3面向对象编程/７．Ｐython里面面向对象的快捷方式/file.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3面向对象编程/８．设计模式１/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3面向对象编程/８．设计模式１/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3面向对象编程/８．设计模式１/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3面向对象编程/８．设计模式１/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3面向对象编程/８．设计模式１/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3面向对象编程/８．设计模式１/file.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3面向对象编程/９．设计模式２/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3面向对象编程/９．设计模式２/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3面向对象编程/９．设计模式２/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3面向对象编程/９．设计模式２/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3面向对象编程/９．设计模式２/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3面向对象编程/９．设计模式２/file.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/2.词法约定和语法/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/2.词法约定和语法/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/2.词法约定和语法/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/2.词法约定和语法/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/2.词法约定和语法/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/2.词法约定和语法/file.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/2.词法约定和语法/file.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/2.词法约定和语法/file.8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/2.词法约定和语法/file.9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/附录python3/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/附录python3/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/附录python3/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/附录python3/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/附录python3/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/附录python3/file.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１．Ｐython简介/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１．Ｐython简介/file.10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１．Ｐython简介/file.11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１．Ｐython简介/file.12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１．Ｐython简介/file.13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１．Ｐython简介/file.14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１．Ｐython简介/file.15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１．Ｐython简介/file.16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１．Ｐython简介/file.17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１．Ｐython简介/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１．Ｐython简介/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１．Ｐython简介/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１．Ｐython简介/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１．Ｐython简介/file.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１．Ｐython简介/file.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１．Ｐython简介/file.8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１．Ｐython简介/file.9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１０．执行环境/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１０．执行环境/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１０．执行环境/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１０．执行环境/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１０．执行环境/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１０．执行环境/file.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１０．执行环境/file.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１１．测试，调试，探查与调优/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１１．测试，调试，探查与调优/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１１．测试，调试，探查与调优/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１１．测试，调试，探查与调优/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１１．测试，调试，探查与调优/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１２．内置函数和异常/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１２．内置函数和异常/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１２．内置函数和异常/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１２．内置函数和异常/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１３．Python运行时服务/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１３．Python运行时服务/file.10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１３．Python运行时服务/file.11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１３．Python运行时服务/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１３．Python运行时服务/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１３．Python运行时服务/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１３．Python运行时服务/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１３．Python运行时服务/file.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１３．Python运行时服务/file.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１３．Python运行时服务/file.8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１３．Python运行时服务/file.9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１４．数学运算/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１４．数学运算/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１４．数学运算/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１４．数学运算/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１４．数学运算/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１５．数据结构，算法与代码简化/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１５．数据结构，算法与代码简化/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１５．数据结构，算法与代码简化/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１５．数据结构，算法与代码简化/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１５．数据结构，算法与代码简化/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１５．数据结构，算法与代码简化/file.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１５．数据结构，算法与代码简化/file.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１５．数据结构，算法与代码简化/file.8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１５．数据结构，算法与代码简化/file.9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１６．字符串和文本处理/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１６．字符串和文本处理/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１６．字符串和文本处理/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１６．字符串和文本处理/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１６．字符串和文本处理/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１７．Python数据库访问/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１７．Python数据库访问/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１７．Python数据库访问/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１７．Python数据库访问/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１８．文件与目录处理/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１８．文件与目录处理/file.10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１８．文件与目录处理/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１８．文件与目录处理/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１８．文件与目录处理/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１８．文件与目录处理/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１８．文件与目录处理/file.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１８．文件与目录处理/file.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１８．文件与目录处理/file.8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１８．文件与目录处理/file.9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１９．操作系统服务/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１９．操作系统服务/file.10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１９．操作系统服务/file.11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１９．操作系统服务/file.12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１９．操作系统服务/file.13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１９．操作系统服务/file.14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１９．操作系统服务/file.15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１９．操作系统服务/file.16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１９．操作系统服务/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１９．操作系统服务/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１９．操作系统服务/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１９．操作系统服务/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１９．操作系统服务/file.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１９．操作系统服务/file.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１９．操作系统服务/file.8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/１９．操作系统服务/file.9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/２０．线程与并发/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/２０．线程与并发/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/２０．线程与并发/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/２０．线程与并发/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/２０．线程与并发/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/２０．线程与并发/file.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/２１．网络编程和套接字/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/２１．网络编程和套接字/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/２１．网络编程和套接字/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/２１．网络编程和套接字/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/２１．网络编程和套接字/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/２１．网络编程和套接字/file.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/２１．网络编程和套接字/file.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/２２．网络应用程序编程/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/２２．网络应用程序编程/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/２２．网络应用程序编程/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/２２．网络应用程序编程/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/２２．网络应用程序编程/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/２３．web编程/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/２３．web编程/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/２３．web编程/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/２３．web编程/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/２４．网络数据处理和编码/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/２４．网络数据处理和编码/file.10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/２４．网络数据处理和编码/file.11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/２４．网络数据处理和编码/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/２４．网络数据处理和编码/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/２４．网络数据处理和编码/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/２４．网络数据处理和编码/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/２４．网络数据处理和编码/file.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/２４．网络数据处理和编码/file.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/２４．网络数据处理和编码/file.8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/２４．网络数据处理和编码/file.9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/２５．其他库模块/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/２５．其他库模块/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/２５．其他库模块/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/２５．其他库模块/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/２５．其他库模块/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/２５．其他库模块/file.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/２５．其他库模块/file.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/２５．其他库模块/file.8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/２６．扩展与嵌入Python/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/２６．扩展与嵌入Python/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/２６．扩展与嵌入Python/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/２６．扩展与嵌入Python/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/２６．扩展与嵌入Python/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/２６．扩展与嵌入Python/file.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/３．类型和对象/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/３．类型和对象/file.10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/３．类型和对象/file.11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/３．类型和对象/file.12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/３．类型和对象/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/３．类型和对象/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/３．类型和对象/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/３．类型和对象/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/３．类型和对象/file.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/３．类型和对象/file.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/３．类型和对象/file.8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/３．类型和对象/file.9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/４．运算符与表达式/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/４．运算符与表达式/file.10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/４．运算符与表达式/file.11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/４．运算符与表达式/file.12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/４．运算符与表达式/file.13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/４．运算符与表达式/file.14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/４．运算符与表达式/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/４．运算符与表达式/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/４．运算符与表达式/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/４．运算符与表达式/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/４．运算符与表达式/file.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/４．运算符与表达式/file.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/４．运算符与表达式/file.8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/４．运算符与表达式/file.9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/５．程序结构与控制流/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/５．程序结构与控制流/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/５．程序结构与控制流/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/５．程序结构与控制流/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/５．程序结构与控制流/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/５．程序结构与控制流/file.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/６．函数与函数式编程/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/６．函数与函数式编程/file.10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/６．函数与函数式编程/file.11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/６．函数与函数式编程/file.12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/６．函数与函数式编程/file.13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/６．函数与函数式编程/file.14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/６．函数与函数式编程/file.15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/６．函数与函数式编程/file.16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/６．函数与函数式编程/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/６．函数与函数式编程/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/６．函数与函数式编程/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/６．函数与函数式编程/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/６．函数与函数式编程/file.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/６．函数与函数式编程/file.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/６．函数与函数式编程/file.8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/６．函数与函数式编程/file.9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/７．类与面向对象编程/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/７．类与面向对象编程/file.10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/７．类与面向对象编程/file.11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/７．类与面向对象编程/file.12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/７．类与面向对象编程/file.13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/７．类与面向对象编程/file.14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/７．类与面向对象编程/file.15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/７．类与面向对象编程/file.16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/７．类与面向对象编程/file.17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/７．类与面向对象编程/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/７．类与面向对象编程/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/７．类与面向对象编程/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/７．类与面向对象编程/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/７．类与面向对象编程/file.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/７．类与面向对象编程/file.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/７．类与面向对象编程/file.8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/７．类与面向对象编程/file.9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/８．模块，包与分发/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/８．模块，包与分发/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/８．模块，包与分发/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/８．模块，包与分发/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/８．模块，包与分发/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/８．模块，包与分发/file.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/８．模块，包与分发/file.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/８．模块，包与分发/file.8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/８．模块，包与分发/file.9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/９．输入与输出/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/９．输入与输出/file.10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/９．输入与输出/file.11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/９．输入与输出/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/９．输入与输出/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/９．输入与输出/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/９．输入与输出/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/９．输入与输出/file.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/９．输入与输出/file.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/９．输入与输出/file.8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python参考手册4th/９．输入与输出/file.9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python高级编程2th/2.语法最佳实践————类级别以下/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python高级编程2th/2.语法最佳实践————类级别以下/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python高级编程2th/2.语法最佳实践————类级别以下/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python高级编程2th/2.语法最佳实践————类级别以下/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python高级编程2th/１．Pｙthon现状/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python高级编程2th/１．Pｙthon现状/file.10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python高级编程2th/１．Pｙthon现状/file.11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python高级编程2th/１．Pｙthon现状/file.12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python高级编程2th/１．Pｙthon现状/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python高级编程2th/１．Pｙthon现状/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python高级编程2th/１．Pｙthon现状/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python高级编程2th/１．Pｙthon现状/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python高级编程2th/１．Pｙthon现状/file.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python高级编程2th/１．Pｙthon现状/file.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python高级编程2th/１．Pｙthon现状/file.8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python高级编程2th/１．Pｙthon现状/file.9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python高级编程2th/１０．测试驱动开发/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python高级编程2th/１０．测试驱动开发/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python高级编程2th/１０．测试驱动开发/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python高级编程2th/１１．优化————一般原则与分析技术/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python高级编程2th/１１．优化————一般原则与分析技术/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python高级编程2th/１１．优化————一般原则与分析技术/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python高级编程2th/１１．优化————一般原则与分析技术/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python高级编程2th/１２．优化————一些强大的技术/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python高级编程2th/１２．优化————一些强大的技术/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python高级编程2th/１２．优化————一些强大的技术/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python高级编程2th/１２．优化————一些强大的技术/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python高级编程2th/１２．优化————一些强大的技术/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python高级编程2th/１２．优化————一些强大的技术/file.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python高级编程2th/１３．并发/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python高级编程2th/１３．并发/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python高级编程2th/１３．并发/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python高级编程2th/１３．并发/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python高级编程2th/１３．并发/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python高级编程2th/１４．有用的设计模式/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python高级编程2th/１４．有用的设计模式/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python高级编程2th/１４．有用的设计模式/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python高级编程2th/１４．有用的设计模式/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python高级编程2th/３．语法最佳实现————类级别以上/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python高级编程2th/３．语法最佳实现————类级别以上/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python高级编程2th/３．语法最佳实现————类级别以上/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python高级编程2th/３．语法最佳实现————类级别以上/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python高级编程2th/３．语法最佳实现————类级别以上/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python高级编程2th/４．选择好的名称/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python高级编程2th/４．选择好的名称/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python高级编程2th/４．选择好的名称/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python高级编程2th/４．选择好的名称/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python高级编程2th/４．选择好的名称/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python高级编程2th/４．选择好的名称/file.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python高级编程2th/４．选择好的名称/file.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python高级编程2th/４．选择好的名称/file.8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python高级编程2th/５．编写一个包/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python高级编程2th/５．编写一个包/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python高级编程2th/５．编写一个包/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python高级编程2th/５．编写一个包/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python高级编程2th/５．编写一个包/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python高级编程2th/６．部署代码/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python高级编程2th/６．部署代码/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python高级编程2th/６．部署代码/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python高级编程2th/６．部署代码/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python高级编程2th/６．部署代码/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python高级编程2th/６．部署代码/file.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python高级编程2th/７．使用其他语言开发Python扩展/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python高级编程2th/７．使用其他语言开发Python扩展/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python高级编程2th/７．使用其他语言开发Python扩展/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python高级编程2th/７．使用其他语言开发Python扩展/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python高级编程2th/７．使用其他语言开发Python扩展/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python高级编程2th/７．使用其他语言开发Python扩展/file.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python高级编程2th/８．管理代码/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python高级编程2th/８．管理代码/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python高级编程2th/８．管理代码/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python高级编程2th/９．文档化你的项目/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python高级编程2th/９．文档化你的项目/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python高级编程2th/９．文档化你的项目/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python高级编程2th/９．文档化你的项目/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python高级编程2th/９．文档化你的项目/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/10.序列的修改，散列和切片/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/10.序列的修改，散列和切片/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/10.序列的修改，散列和切片/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/10.序列的修改，散列和切片/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/10.序列的修改，散列和切片/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/10.序列的修改，散列和切片/file.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/10.序列的修改，散列和切片/file.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/10.序列的修改，散列和切片/file.8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/10.序列的修改，散列和切片/file.9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/11.接口：从协议到抽象基类/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/11.接口：从协议到抽象基类/file.10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/11.接口：从协议到抽象基类/file.11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/11.接口：从协议到抽象基类/file.12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/11.接口：从协议到抽象基类/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/11.接口：从协议到抽象基类/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/11.接口：从协议到抽象基类/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/11.接口：从协议到抽象基类/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/11.接口：从协议到抽象基类/file.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/11.接口：从协议到抽象基类/file.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/11.接口：从协议到抽象基类/file.8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/11.接口：从协议到抽象基类/file.9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/12.继承的优缺点/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/12.继承的优缺点/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/12.继承的优缺点/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/12.继承的优缺点/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/12.继承的优缺点/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/12.继承的优缺点/file.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/12.继承的优缺点/file.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/13.正确重载运算符/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/13.正确重载运算符/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/13.正确重载运算符/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/13.正确重载运算符/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/13.正确重载运算符/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/13.正确重载运算符/file.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/13.正确重载运算符/file.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/13.正确重载运算符/file.8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/14.可迭代的对象，迭代器和生成器/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/14.可迭代的对象，迭代器和生成器/file.10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/14.可迭代的对象，迭代器和生成器/file.11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/14.可迭代的对象，迭代器和生成器/file.12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/14.可迭代的对象，迭代器和生成器/file.13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/14.可迭代的对象，迭代器和生成器/file.14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/14.可迭代的对象，迭代器和生成器/file.15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/14.可迭代的对象，迭代器和生成器/file.16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/14.可迭代的对象，迭代器和生成器/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/14.可迭代的对象，迭代器和生成器/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/14.可迭代的对象，迭代器和生成器/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/14.可迭代的对象，迭代器和生成器/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/14.可迭代的对象，迭代器和生成器/file.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/14.可迭代的对象，迭代器和生成器/file.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/14.可迭代的对象，迭代器和生成器/file.8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/14.可迭代的对象，迭代器和生成器/file.9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/15.上下文管理器和else块/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/15.上下文管理器和else块/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/15.上下文管理器和else块/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/15.上下文管理器和else块/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/15.上下文管理器和else块/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/15.上下文管理器和else块/file.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/16.协程/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/16.协程/file.10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/16.协程/file.11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/16.协程/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/16.协程/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/16.协程/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/16.协程/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/16.协程/file.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/16.协程/file.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/16.协程/file.8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/16.协程/file.9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/17.使用期物处理并发/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/17.使用期物处理并发/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/17.使用期物处理并发/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/17.使用期物处理并发/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/17.使用期物处理并发/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/17.使用期物处理并发/file.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/17.使用期物处理并发/file.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/18.使用asyncio包处理并发/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/18.使用asyncio包处理并发/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/18.使用asyncio包处理并发/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/18.使用asyncio包处理并发/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/18.使用asyncio包处理并发/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/18.使用asyncio包处理并发/file.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/18.使用asyncio包处理并发/file.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/18.使用asyncio包处理并发/file.8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/19.动态属性和特性/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/19.动态属性和特性/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/19.动态属性和特性/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/19.动态属性和特性/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/19.动态属性和特性/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/19.动态属性和特性/file.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/19.动态属性和特性/file.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/19.动态属性和特性/file.8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/2.序列构成的数组/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/2.序列构成的数组/file.10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/2.序列构成的数组/file.11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/2.序列构成的数组/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/2.序列构成的数组/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/2.序列构成的数组/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/2.序列构成的数组/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/2.序列构成的数组/file.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/2.序列构成的数组/file.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/2.序列构成的数组/file.8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/2.序列构成的数组/file.9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/20.属性描述符/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/20.属性描述符/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/20.属性描述符/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/20.属性描述符/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/20.属性描述符/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/20.属性描述符/file.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/20.属性描述符/file.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/21.类元编程/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/21.类元编程/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/21.类元编程/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/21.类元编程/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/21.类元编程/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/21.类元编程/file.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/21.类元编程/file.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/21.类元编程/file.8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/21.类元编程/file.9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/3.字典和集合/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/3.字典和集合/file.10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/3.字典和集合/file.11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/3.字典和集合/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/3.字典和集合/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/3.字典和集合/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/3.字典和集合/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/3.字典和集合/file.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/3.字典和集合/file.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/3.字典和集合/file.8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/3.字典和集合/file.9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/4.文本和字节序列/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/4.文本和字节序列/file.10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/4.文本和字节序列/file.11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/4.文本和字节序列/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/4.文本和字节序列/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/4.文本和字节序列/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/4.文本和字节序列/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/4.文本和字节序列/file.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/4.文本和字节序列/file.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/4.文本和字节序列/file.8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/4.文本和字节序列/file.9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/5.一等函数/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/5.一等函数/file.10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/5.一等函数/file.11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/5.一等函数/file.12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/5.一等函数/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/5.一等函数/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/5.一等函数/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/5.一等函数/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/5.一等函数/file.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/5.一等函数/file.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/5.一等函数/file.8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/5.一等函数/file.9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/6.使用一等函数实现设计模式/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/6.使用一等函数实现设计模式/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/6.使用一等函数实现设计模式/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/6.使用一等函数实现设计模式/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/7.函数装饰器和闭包/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/7.函数装饰器和闭包/file.10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/7.函数装饰器和闭包/file.11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/7.函数装饰器和闭包/file.12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/7.函数装饰器和闭包/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/7.函数装饰器和闭包/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/7.函数装饰器和闭包/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/7.函数装饰器和闭包/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/7.函数装饰器和闭包/file.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/7.函数装饰器和闭包/file.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/7.函数装饰器和闭包/file.8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/7.函数装饰器和闭包/file.9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/8.对象引用，可变性和垃圾回收/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/8.对象引用，可变性和垃圾回收/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/8.对象引用，可变性和垃圾回收/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/8.对象引用，可变性和垃圾回收/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/8.对象引用，可变性和垃圾回收/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/8.对象引用，可变性和垃圾回收/file.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/8.对象引用，可变性和垃圾回收/file.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/8.对象引用，可变性和垃圾回收/file.8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/8.对象引用，可变性和垃圾回收/file.9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/test1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/１．python数据模型/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/１．python数据模型/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/１．python数据模型/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/１．python数据模型/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/１．python数据模型/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/１．python数据模型/file.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/９．符合python风格的对象/file.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/９．符合python风格的对象/file.10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/９．符合python风格的对象/file.11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/９．符合python风格的对象/file.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/９．符合python风格的对象/file.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/９．符合python风格的对象/file.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/９．符合python风格的对象/file.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/９．符合python风格的对象/file.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/９．符合python风格的对象/file.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/９．符合python风格的对象/file.8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/９．符合python风格的对象/file.9.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test.py" afterDir="false" />
     </list>
@@ -33,13 +848,14 @@
     <session id="1160043619">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.1" value="1" />
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.10" value="6" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.14" value="2" />
           <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.21" value="1" />
           <entry key="project.open.time.25" value="1" />
           <entry key="project.open.time.26" value="2" />
           <entry key="project.open.time.3" value="1" />
@@ -50,7 +866,7 @@
           <entry key="project.open.time.42" value="1" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="6" />
-          <entry key="project.opened" value="31" />
+          <entry key="project.opened" value="33" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -65,12 +881,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="92396" />
+          <entry key="py" value="93816" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="92396" />
+          <entry key="Python" value="93816" />
         </counts>
       </usages-collector>
     </session>
@@ -111,8 +927,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="305" selection-start-line="6" selection-start-column="305" selection-end-line="6" selection-end-column="305" />
+            <state relative-caret-position="357">
+              <caret line="21" column="22" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -205,7 +1021,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -215,79 +1030,18 @@
             </path>
             <path>
               <item name="Recoding_Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Recoding_Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Python_Cook（练习）" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Recoding_Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Recoding_Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Python_Cook（练习）" type="462c0819:PsiDirectoryNode" />
-              <item name="10.模块和包" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Recoding_Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Recoding_Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Python_Cook（练习）" type="462c0819:PsiDirectoryNode" />
-              <item name="10.模块和包" type="462c0819:PsiDirectoryNode" />
-              <item name="1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Recoding_Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Recoding_Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Python_Cook（练习）" type="462c0819:PsiDirectoryNode" />
-              <item name="10.模块和包" type="462c0819:PsiDirectoryNode" />
-              <item name="1" type="462c0819:PsiDirectoryNode" />
-              <item name="graphics" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Recoding_Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Recoding_Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Python_Cook（练习）" type="462c0819:PsiDirectoryNode" />
-              <item name="10.模块和包" type="462c0819:PsiDirectoryNode" />
-              <item name="1" type="462c0819:PsiDirectoryNode" />
-              <item name="graphics" type="462c0819:PsiDirectoryNode" />
-              <item name="formats" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Recoding_Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Recoding_Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Python_Cook（练习）" type="462c0819:PsiDirectoryNode" />
-              <item name="10.模块和包" type="462c0819:PsiDirectoryNode" />
-              <item name="2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Recoding_Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Recoding_Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Python_Cook（练习）" type="462c0819:PsiDirectoryNode" />
-              <item name="10.模块和包" type="462c0819:PsiDirectoryNode" />
-              <item name="4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Recoding_Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Recoding_Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Python_Cook（练习）" type="462c0819:PsiDirectoryNode" />
-              <item name="10.模块和包" type="462c0819:PsiDirectoryNode" />
-              <item name="4" type="462c0819:PsiDirectoryNode" />
-              <item name="mym" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Recoding_Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Recoding_Python" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Recoding_Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/J_stocks" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -368,7 +1122,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python">
       <module name="Recoding_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -411,15 +1165,14 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.test (1)" />
       <item itemvalue="Python.file.24" />
       <item itemvalue="Python.somemodule" />
       <item itemvalue="Python.file.4" />
       <item itemvalue="Python.test" />
-      <item itemvalue="Python.test (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test (1)" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.file.4" />
         <item itemvalue="Python.somemodule" />
@@ -449,7 +1202,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32307693" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32307693" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -780,9 +1533,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
           <caret line="34" column="37" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
-          <folding>
-            <element signature="e#228#246#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -790,10 +1540,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <marker date="1542528886333" expanded="true" signature="9:14" ph="..." />
-            <marker date="1542528886333" expanded="true" signature="63:68" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -801,9 +1547,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <marker date="1542528886333" expanded="true" signature="19:21" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -844,8 +1587,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="305" selection-start-line="6" selection-start-column="305" selection-end-line="6" selection-end-column="305" />
+        <state relative-caret-position="357">
+          <caret line="21" column="22" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="22" />
         </state>
       </provider>
     </entry>
