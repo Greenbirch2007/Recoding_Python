@@ -2,20 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb40e46c-78cb-4d66-ac83-329ab06380d8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Python_Cook（练习）/10.模块和包/12/postimport.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Cook（练习）/10.模块和包/file.10.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Cook（练习）/10.模块和包/file.10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Cook（练习）/10.模块和包/file.11.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Cook（练习）/10.模块和包/file.11.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Cook（练习）/10.模块和包/file.12.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Cook（练习）/10.模块和包/file.12.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Cook（练习）/10.模块和包/file.13.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Cook（练习）/10.模块和包/file.13.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Cook（练习）/10.模块和包/file.14.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Cook（练习）/10.模块和包/file.14.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Cook（练习）/10.模块和包/file.15.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Cook（练习）/10.模块和包/file.15.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Cook（练习）/10.模块和包/file.5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Cook（练习）/10.模块和包/file.5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Cook（练习）/10.模块和包/file.6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Cook（练习）/10.模块和包/file.6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Cook（练习）/10.模块和包/file.7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Cook（练习）/10.模块和包/file.7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Cook（练习）/10.模块和包/file.8.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Cook（练习）/10.模块和包/file.8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Cook（练习）/10.模块和包/file.9.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Cook（练习）/10.模块和包/file.9.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Cook（练习）/11.网络和Web编程/file.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Cook（练习）/11.网络和Web编程/file.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python高级编程2th/2.语法最佳实践————类级别以下/file.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python高级编程2th/2.语法最佳实践————类级别以下/file.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python高级编程2th/2.语法最佳实践————类级别以下/file.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python高级编程2th/2.语法最佳实践————类级别以下/file.2.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +33,7 @@
         <counts>
           <entry key="project.closed" value="5" />
           <entry key="project.open.time.1" value="2" />
-          <entry key="project.open.time.10" value="6" />
+          <entry key="project.open.time.10" value="7" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.13" value="1" />
@@ -52,7 +41,7 @@
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.21" value="1" />
           <entry key="project.open.time.25" value="1" />
-          <entry key="project.open.time.26" value="2" />
+          <entry key="project.open.time.26" value="3" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.33" value="1" />
           <entry key="project.open.time.35" value="1" />
@@ -60,30 +49,32 @@
           <entry key="project.open.time.38" value="2" />
           <entry key="project.open.time.39" value="2" />
           <entry key="project.open.time.40" value="2" />
+          <entry key="project.open.time.41" value="1" />
           <entry key="project.open.time.42" value="1" />
+          <entry key="project.open.time.45" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.open.time.9" value="6" />
-          <entry key="project.opened" value="38" />
+          <entry key="project.open.time.9" value="7" />
+          <entry key="project.opened" value="43" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="124" />
+          <entry key="py" value="127" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="124" />
+          <entry key="Python" value="127" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="100750" />
+          <entry key="py" value="112133" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="100750" />
+          <entry key="Python" value="112133" />
         </counts>
       </usages-collector>
     </session>
@@ -122,12 +113,31 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Python_Cook（练习）/11.网络和Web编程/file.1.py">
+        <entry file="file://$PROJECT_DIR$/Python高级编程2th/2.语法最佳实践————类级别以下/file.2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+            <state relative-caret-position="306">
+              <caret line="317" column="9" selection-start-line="317" selection-start-column="9" selection-end-line="317" selection-end-column="9" />
               <folding>
-                <element signature="e#160#193#0" expanded="true" />
+                <marker date="1542790731555" expanded="true" signature="838:845" ph="..." />
+                <marker date="1542790731555" expanded="true" signature="1438:1445" ph="..." />
+                <marker date="1542790731555" expanded="true" signature="2435:2440" ph="..." />
+                <marker date="1542790731555" expanded="true" signature="2537:2542" ph="..." />
+                <marker date="1542790731555" expanded="true" signature="2959:2966" ph="..." />
+                <marker date="1542790731555" expanded="true" signature="3816:3821" ph="..." />
+                <marker date="1542790731555" expanded="true" signature="4104:4243" ph="..." />
+                <marker date="1542790731555" expanded="true" signature="4588:4593" ph="..." />
+                <marker date="1542790731555" expanded="true" signature="4621:4630" ph="..." />
+                <marker date="1542790731555" expanded="true" signature="4915:4920" ph="..." />
+                <marker date="1542790731555" expanded="true" signature="5023:5032" ph="..." />
+                <marker date="1542790731555" expanded="true" signature="5290:5295" ph="..." />
+                <marker date="1542790731555" expanded="true" signature="5681:5688" ph="..." />
+                <marker date="1542790731555" expanded="true" signature="6242:6247" ph="..." />
+                <marker date="1542790731555" expanded="true" signature="6386:6391" ph="..." />
+                <marker date="1542790731555" expanded="true" signature="7131:7136" ph="..." />
+                <marker date="1542790731555" expanded="true" signature="7217:7222" ph="..." />
+                <marker date="1542790731555" expanded="true" signature="7338:7343" ph="..." />
+                <marker date="1542790731555" expanded="true" signature="8168:8173" ph="..." />
+                <marker date="1542790731555" expanded="true" signature="8257:8262" ph="..." />
               </folding>
             </state>
           </provider>
@@ -156,8 +166,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Python_Cook（练习）/9.元编程/file.13.py" />
-        <option value="$PROJECT_DIR$/Python_Cook（练习）/9.元编程/file.14.py" />
         <option value="$PROJECT_DIR$/Python_Cook（练习）/9.元编程/file.15.py" />
         <option value="$PROJECT_DIR$/Python_Cook（练习）/9.元编程/file.16.py" />
         <option value="$PROJECT_DIR$/Python_Cook（练习）/9.元编程/file.17.py" />
@@ -207,6 +215,8 @@
         <option value="$PROJECT_DIR$/Python_Cook（练习）/10.模块和包/file.14.py" />
         <option value="$PROJECT_DIR$/Python_Cook（练习）/10.模块和包/file.15.py" />
         <option value="$PROJECT_DIR$/Python_Cook（练习）/11.网络和Web编程/file.1.py" />
+        <option value="$PROJECT_DIR$/Python高级编程2th/2.语法最佳实践————类级别以下/file.1.py" />
+        <option value="$PROJECT_DIR$/Python高级编程2th/2.语法最佳实践————类级别以下/file.2.py" />
       </list>
     </option>
   </component>
@@ -237,126 +247,13 @@
             <path>
               <item name="Recoding_Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Recoding_Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Python_Cook（练习）" type="462c0819:PsiDirectoryNode" />
+              <item name="Python高级编程2th" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Recoding_Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Recoding_Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Python_Cook（练习）" type="462c0819:PsiDirectoryNode" />
-              <item name="10.模块和包" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Recoding_Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Recoding_Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Python_Cook（练习）" type="462c0819:PsiDirectoryNode" />
-              <item name="10.模块和包" type="462c0819:PsiDirectoryNode" />
-              <item name="4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Recoding_Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Recoding_Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Python_Cook（练习）" type="462c0819:PsiDirectoryNode" />
-              <item name="10.模块和包" type="462c0819:PsiDirectoryNode" />
-              <item name="5" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Recoding_Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Recoding_Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Python_Cook（练习）" type="462c0819:PsiDirectoryNode" />
-              <item name="10.模块和包" type="462c0819:PsiDirectoryNode" />
-              <item name="5" type="462c0819:PsiDirectoryNode" />
-              <item name="bar-package" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Recoding_Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Recoding_Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Python_Cook（练习）" type="462c0819:PsiDirectoryNode" />
-              <item name="10.模块和包" type="462c0819:PsiDirectoryNode" />
-              <item name="5" type="462c0819:PsiDirectoryNode" />
-              <item name="bar-package" type="462c0819:PsiDirectoryNode" />
-              <item name="spam" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Recoding_Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Recoding_Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Python_Cook（练习）" type="462c0819:PsiDirectoryNode" />
-              <item name="10.模块和包" type="462c0819:PsiDirectoryNode" />
-              <item name="5" type="462c0819:PsiDirectoryNode" />
-              <item name="foo-package" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Recoding_Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Recoding_Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Python_Cook（练习）" type="462c0819:PsiDirectoryNode" />
-              <item name="10.模块和包" type="462c0819:PsiDirectoryNode" />
-              <item name="5" type="462c0819:PsiDirectoryNode" />
-              <item name="foo-package" type="462c0819:PsiDirectoryNode" />
-              <item name="spam" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Recoding_Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Recoding_Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Python_Cook（练习）" type="462c0819:PsiDirectoryNode" />
-              <item name="10.模块和包" type="462c0819:PsiDirectoryNode" />
-              <item name="6" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Recoding_Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Recoding_Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Python_Cook（练习）" type="462c0819:PsiDirectoryNode" />
-              <item name="10.模块和包" type="462c0819:PsiDirectoryNode" />
-              <item name="7" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Recoding_Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Recoding_Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Python_Cook（练习）" type="462c0819:PsiDirectoryNode" />
-              <item name="10.模块和包" type="462c0819:PsiDirectoryNode" />
-              <item name="7" type="462c0819:PsiDirectoryNode" />
-              <item name="application" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Recoding_Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Recoding_Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Python_Cook（练习）" type="462c0819:PsiDirectoryNode" />
-              <item name="10.模块和包" type="462c0819:PsiDirectoryNode" />
-              <item name="8" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Recoding_Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Recoding_Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Python_Cook（练习）" type="462c0819:PsiDirectoryNode" />
-              <item name="10.模块和包" type="462c0819:PsiDirectoryNode" />
-              <item name="8" type="462c0819:PsiDirectoryNode" />
-              <item name="mypackage" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Recoding_Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Recoding_Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Python_Cook（练习）" type="462c0819:PsiDirectoryNode" />
-              <item name="10.模块和包" type="462c0819:PsiDirectoryNode" />
-              <item name="11" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Recoding_Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Recoding_Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Python_Cook（练习）" type="462c0819:PsiDirectoryNode" />
-              <item name="10.模块和包" type="462c0819:PsiDirectoryNode" />
-              <item name="11" type="462c0819:PsiDirectoryNode" />
-              <item name="grok" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Recoding_Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Recoding_Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Python_Cook（练习）" type="462c0819:PsiDirectoryNode" />
-              <item name="10.模块和包" type="462c0819:PsiDirectoryNode" />
-              <item name="12" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Recoding_Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Recoding_Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Python_Cook（练习）" type="462c0819:PsiDirectoryNode" />
-              <item name="11.网络和Web编程" type="462c0819:PsiDirectoryNode" />
+              <item name="Python高级编程2th" type="462c0819:PsiDirectoryNode" />
+              <item name="2.语法最佳实践————类级别以下" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Recoding_Python" type="b2602c69:ProjectViewProjectNode" />
@@ -388,7 +285,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.file.10">
+  <component name="RunManager" selected="Python.file.2">
+    <configuration name="file.1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Recoding_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python高级编程2th/2.语法最佳实践————类级别以下" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python高级编程2th/2.语法最佳实践————类级别以下/file.1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="file.10" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Recoding_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -402,6 +320,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Cook（练习）/10.模块和包/file.10.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="file.2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Recoding_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python高级编程2th/2.语法最佳实践————类级别以下" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python高级编程2th/2.语法最佳实践————类级别以下/file.2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -452,27 +391,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Recoding_Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Cook（练习）/10.模块和包/5" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Cook（练习）/10.模块和包/5/test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="test (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Recoding_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -494,42 +412,21 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Recoding_Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Cook（练习）/10.模块和包/4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Cook（练习）/10.模块和包/4/test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="Python.test (1)" />
-      <item itemvalue="Python.test" />
-      <item itemvalue="Python.test (2)" />
       <item itemvalue="Python.test (3)" />
       <item itemvalue="Python.spam" />
       <item itemvalue="Python.file.10" />
+      <item itemvalue="Python.file.1" />
+      <item itemvalue="Python.file.2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.file.2" />
+        <item itemvalue="Python.file.1" />
         <item itemvalue="Python.file.10" />
         <item itemvalue="Python.spam" />
         <item itemvalue="Python.test (3)" />
-        <item itemvalue="Python.test (2)" />
-        <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
@@ -550,20 +447,20 @@
     <frame x="0" y="0" width="1366" height="718" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19318181" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19318181" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32307693" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32185885" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39931154" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32874355" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -602,27 +499,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Python_Cook（练习）/9.元编程/file.14.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="710">
-          <caret line="52" column="39" lean-forward="true" selection-start-line="52" selection-start-column="39" selection-end-line="52" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python_Cook（练习）/9.元编程/file.18.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="98" selection-start-column="2" selection-end-line="109" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python_Cook（练习）/9.元编程/file.19.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="61" selection-start-line="61" selection-end-line="61" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Python_Cook（练习）/9.元编程/file.20.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
@@ -872,9 +748,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
-          <folding>
-            <marker date="1542696949489" expanded="true" signature="54:59" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -882,9 +755,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-          <folding>
-            <marker date="1542696949577" expanded="true" signature="47:52" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -913,10 +783,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="17" column="23" lean-forward="true" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
-          <folding>
-            <element signature="e#19#35#0" expanded="true" />
-            <marker date="1542698546751" expanded="true" signature="148:153" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -950,10 +816,46 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Python_Cook（练习）/11.网络和Web编程/file.1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
+        <state relative-caret-position="408">
           <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python高级编程2th/2.语法最佳实践————类级别以下/file.1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="122" selection-start-line="122" selection-end-line="122" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python高级编程2th/１．Pｙthon现状/file.1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python高级编程2th/2.语法最佳实践————类级别以下/file.2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="317" column="9" selection-start-line="317" selection-start-column="9" selection-end-line="317" selection-end-column="9" />
           <folding>
-            <element signature="e#160#193#0" expanded="true" />
+            <marker date="1542790731555" expanded="true" signature="838:845" ph="..." />
+            <marker date="1542790731555" expanded="true" signature="1438:1445" ph="..." />
+            <marker date="1542790731555" expanded="true" signature="2435:2440" ph="..." />
+            <marker date="1542790731555" expanded="true" signature="2537:2542" ph="..." />
+            <marker date="1542790731555" expanded="true" signature="2959:2966" ph="..." />
+            <marker date="1542790731555" expanded="true" signature="3816:3821" ph="..." />
+            <marker date="1542790731555" expanded="true" signature="4104:4243" ph="..." />
+            <marker date="1542790731555" expanded="true" signature="4588:4593" ph="..." />
+            <marker date="1542790731555" expanded="true" signature="4621:4630" ph="..." />
+            <marker date="1542790731555" expanded="true" signature="4915:4920" ph="..." />
+            <marker date="1542790731555" expanded="true" signature="5023:5032" ph="..." />
+            <marker date="1542790731555" expanded="true" signature="5290:5295" ph="..." />
+            <marker date="1542790731555" expanded="true" signature="5681:5688" ph="..." />
+            <marker date="1542790731555" expanded="true" signature="6242:6247" ph="..." />
+            <marker date="1542790731555" expanded="true" signature="6386:6391" ph="..." />
+            <marker date="1542790731555" expanded="true" signature="7131:7136" ph="..." />
+            <marker date="1542790731555" expanded="true" signature="7217:7222" ph="..." />
+            <marker date="1542790731555" expanded="true" signature="7338:7343" ph="..." />
+            <marker date="1542790731555" expanded="true" signature="8168:8173" ph="..." />
+            <marker date="1542790731555" expanded="true" signature="8257:8262" ph="..." />
           </folding>
         </state>
       </provider>
