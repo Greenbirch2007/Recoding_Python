@@ -16,3 +16,7 @@ def tag(name,*content,cls=None,**attrs):
 
     else:
         return '<%s%s/ > ' %(name,attrs_str)
+
+
+if __name__ =='__main__':
+    tag()
