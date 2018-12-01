@@ -6,16 +6,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eb40e46c-78cb-4d66-ac83-329ab06380d8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/流程的Python/7.函数装饰器和闭包/clockdeco.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/流程的Python/7.函数装饰器和闭包/clockdeco2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/流程的Python/7.函数装饰器和闭包/clockdeco_demo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Recoding_Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Recoding_Python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/7.函数装饰器和闭包/fibo_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/流程的Python/7.函数装饰器和闭包/reg_parm.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/流程的Python/7.函数装饰器和闭包/file.5.py" beforeDir="false" afterPath="$PROJECT_DIR$/流程的Python/7.函数装饰器和闭包/file.5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/流程的Python/7.函数装饰器和闭包/file.6.py" beforeDir="false" afterPath="$PROJECT_DIR$/流程的Python/7.函数装饰器和闭包/file.6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/流程的Python/7.函数装饰器和闭包/file.7.py" beforeDir="false" afterPath="$PROJECT_DIR$/流程的Python/7.函数装饰器和闭包/file.7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/流程的Python/7.函数装饰器和闭包/file.10.py" beforeDir="false" afterPath="$PROJECT_DIR$/流程的Python/7.函数装饰器和闭包/file.10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/流程的Python/7.函数装饰器和闭包/file.11.py" beforeDir="false" afterPath="$PROJECT_DIR$/流程的Python/7.函数装饰器和闭包/file.11.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/流程的Python/7.函数装饰器和闭包/file.8.py" beforeDir="false" afterPath="$PROJECT_DIR$/流程的Python/7.函数装饰器和闭包/file.8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/流程的Python/7.函数装饰器和闭包/file.9.py" beforeDir="false" afterPath="$PROJECT_DIR$/流程的Python/7.函数装饰器和闭包/file.9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/流程的Python/8.对象引用，可变性和垃圾回收/file.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/流程的Python/8.对象引用，可变性和垃圾回收/file.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/流程的Python/９．符合python风格的对象/file.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/流程的Python/９．符合python风格的对象/file.1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,27 +40,9 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/流程的Python/7.函数装饰器和闭包/file.5.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="78" column="38" selection-start-line="78" selection-start-column="38" selection-end-line="78" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/流程的Python/7.函数装饰器和闭包/file.6.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="186">
-              <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/流程的Python/7.函数装饰器和闭包/file.7.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
+            <state relative-caret-position="-60">
               <caret line="5" selection-start-line="5" selection-end-line="18" />
             </state>
           </provider>
@@ -70,46 +51,83 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/流程的Python/7.函数装饰器和闭包/clockdeco_demo.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="257">
-              <caret line="31" column="44" selection-start-line="31" selection-start-column="44" selection-end-line="31" selection-end-column="44" />
-              <folding>
-                <element signature="e#23#34#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/流程的Python/7.函数装饰器和闭包/clockdeco2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="257">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
-              <folding>
-                <element signature="e#2#13#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="75">
+              <caret line="5" column="5" selection-start-line="5" selection-end-line="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/流程的Python/7.函数装饰器和闭包/file.9.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/流程的Python/7.函数装饰器和闭包/file.8.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="180">
+              <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/流程的Python/7.函数装饰器和闭包/clockdeco.py">
+        <entry file="file://$PROJECT_DIR$/流程的Python/7.函数装饰器和闭包/file.10.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="169">
+              <caret line="68" column="105" selection-start-line="68" selection-start-column="105" selection-end-line="68" selection-end-column="105" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/流程的Python/7.函数装饰器和闭包/file.11.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/流程的Python/8.对象引用，可变性和垃圾回收/file.1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="19" selection-start-column="19" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/流程的Python/９．符合python风格的对象/file.1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="35" selection-start-column="18" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/流程的Python/7.函数装饰器和闭包/reg_parm.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/流程的Python/7.函数装饰器和闭包/file.8.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-446">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-start-column="2" selection-end-line="33" selection-end-column="24" />
+              <folding>
+                <element signature="e#448#465#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/流程的Python/7.函数装饰器和闭包/fibo_demo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="13" column="22" lean-forward="true" selection-end-line="13" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -137,14 +155,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Python_Cook（练习）/10.模块和包/file.6.py" />
-        <option value="$PROJECT_DIR$/Python_Cook（练习）/10.模块和包/6/spam.py" />
-        <option value="$PROJECT_DIR$/Python_Cook（练习）/10.模块和包/6/test.py" />
-        <option value="$PROJECT_DIR$/Python_Cook（练习）/10.模块和包/7/application/bar.py" />
-        <option value="$PROJECT_DIR$/Python_Cook（练习）/10.模块和包/7/application/grok.py" />
-        <option value="$PROJECT_DIR$/Python_Cook（练习）/10.模块和包/7/application/spam.py" />
-        <option value="$PROJECT_DIR$/Python_Cook（练习）/10.模块和包/file.7.py" />
-        <option value="$PROJECT_DIR$/Python_Cook（练习）/10.模块和包/8/mypackage/tt.py" />
         <option value="$PROJECT_DIR$/Python_Cook（练习）/10.模块和包/8/mypackage/spam.py" />
         <option value="$PROJECT_DIR$/Python_Cook（练习）/10.模块和包/file.8.py" />
         <option value="$PROJECT_DIR$/Python_Cook（练习）/10.模块和包/file.9.py" />
@@ -187,7 +197,15 @@
         <option value="$PROJECT_DIR$/流程的Python/7.函数装饰器和闭包/clockdeco.py" />
         <option value="$PROJECT_DIR$/流程的Python/7.函数装饰器和闭包/clockdeco_demo.py" />
         <option value="$PROJECT_DIR$/流程的Python/7.函数装饰器和闭包/clockdeco2.py" />
+        <option value="$PROJECT_DIR$/流程的Python/7.函数装饰器和闭包/f.py" />
+        <option value="$PROJECT_DIR$/流程的Python/7.函数装饰器和闭包/fibo_demo.py" />
         <option value="$PROJECT_DIR$/流程的Python/7.函数装饰器和闭包/file.8.py" />
+        <option value="$PROJECT_DIR$/流程的Python/7.函数装饰器和闭包/file.9.py" />
+        <option value="$PROJECT_DIR$/流程的Python/7.函数装饰器和闭包/reg_parm.py" />
+        <option value="$PROJECT_DIR$/流程的Python/7.函数装饰器和闭包/file.10.py" />
+        <option value="$PROJECT_DIR$/流程的Python/7.函数装饰器和闭包/file.11.py" />
+        <option value="$PROJECT_DIR$/流程的Python/8.对象引用，可变性和垃圾回收/file.1.py" />
+        <option value="$PROJECT_DIR$/流程的Python/９．符合python风格的对象/file.1.py" />
       </list>
     </option>
   </component>
@@ -197,7 +215,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="99" />
     <option name="y" value="45" />
     <option name="width" value="1267" />
@@ -209,6 +227,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -239,11 +258,22 @@
               <item name="流程的Python" type="462c0819:PsiDirectoryNode" />
               <item name="7.函数装饰器和闭包" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Recoding_Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Recoding_Python" type="462c0819:PsiDirectoryNode" />
+              <item name="流程的Python" type="462c0819:PsiDirectoryNode" />
+              <item name="8.对象引用，可变性和垃圾回收" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Recoding_Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Recoding_Python" type="462c0819:PsiDirectoryNode" />
+              <item name="流程的Python" type="462c0819:PsiDirectoryNode" />
+              <item name="９．符合python风格的对象" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -265,8 +295,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.file.5">
-    <configuration name="file.1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.file.11">
+    <configuration name="clockdeco_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Recoding_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -278,7 +308,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/流程的Python/7.函数装饰器和闭包/file.1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/流程的Python/7.函数装饰器和闭包/clockdeco_demo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -287,7 +317,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="file.2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="fibo_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Recoding_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -299,7 +329,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/流程的Python/7.函数装饰器和闭包/file.2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/流程的Python/7.函数装饰器和闭包/fibo_demo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -308,7 +338,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="file.4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="file.10" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Recoding_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -320,7 +350,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/流程的Python/7.函数装饰器和闭包/file.4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/流程的Python/7.函数装饰器和闭包/file.10.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -329,7 +359,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="file.5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="file.11" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Recoding_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -341,7 +371,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/流程的Python/7.函数装饰器和闭包/file.5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/流程的Python/7.函数装饰器和闭包/file.11.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -350,7 +380,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="reg" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="file.8" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Recoding_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -362,7 +392,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/流程的Python/7.函数装饰器和闭包/reg.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/流程的Python/7.函数装饰器和闭包/file.8.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -394,19 +424,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.test (1)" />
-      <item itemvalue="Python.file.1" />
-      <item itemvalue="Python.reg" />
-      <item itemvalue="Python.file.2" />
-      <item itemvalue="Python.file.4" />
-      <item itemvalue="Python.file.5" />
+      <item itemvalue="Python.clockdeco_demo" />
+      <item itemvalue="Python.fibo_demo" />
+      <item itemvalue="Python.file.8" />
+      <item itemvalue="Python.file.10" />
+      <item itemvalue="Python.file.11" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.file.5" />
-        <item itemvalue="Python.file.4" />
-        <item itemvalue="Python.file.2" />
-        <item itemvalue="Python.reg" />
-        <item itemvalue="Python.file.1" />
+        <item itemvalue="Python.file.11" />
+        <item itemvalue="Python.file.10" />
+        <item itemvalue="Python.file.8" />
+        <item itemvalue="Python.fibo_demo" />
+        <item itemvalue="Python.clockdeco_demo" />
       </list>
     </recent_temporary>
   </component>
@@ -432,7 +462,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.24531516" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.50425893" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39931154" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -440,7 +470,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.43100512" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.43100512" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32874355" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -476,55 +506,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Python_Cook（练习）/10.模块和包/8/mypackage/spam.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python_Cook（练习）/10.模块和包/file.5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="43" selection-start-line="43" selection-end-line="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python_Cook（练习）/10.模块和包/file.6.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="61" selection-start-line="11" selection-start-column="61" selection-end-line="11" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python_Cook（练习）/10.模块和包/file.7.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python_Cook（练习）/10.模块和包/file.8.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python_Cook（练习）/10.模块和包/file.9.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python_Cook（练习）/10.模块和包/file.10.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Python_Cook（练习）/10.模块和包/11/spam.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -763,24 +744,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/流程的Python/7.函数装饰器和闭包/file.5.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
+        <state relative-caret-position="1170">
           <caret line="78" column="38" selection-start-line="78" selection-start-column="38" selection-end-line="78" selection-end-column="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/流程的Python/7.函数装饰器和闭包/file.6.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
+        <state relative-caret-position="435">
           <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/流程的Python/7.函数装饰器和闭包/file.7.py">
+    <entry file="file://$PROJECT_DIR$/流程的Python/7.函数装饰器和闭包/clockdeco2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="18" />
+        <state relative-caret-position="390">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="e#2#13#0" expanded="true" />
+          </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/流程的Python/7.函数装饰器和闭包/f.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/流程的Python/7.函数装饰器和闭包/clockdeco.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -791,31 +778,74 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/流程的Python/7.函数装饰器和闭包/clockdeco_demo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="31" column="44" selection-start-line="31" selection-start-column="44" selection-end-line="31" selection-end-column="44" />
-          <folding>
-            <element signature="e#23#34#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="75">
+          <caret line="5" column="5" selection-start-line="5" selection-end-line="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/流程的Python/7.函数装饰器和闭包/clockdeco2.py">
+    <entry file="file://$PROJECT_DIR$/流程的Python/7.函数装饰器和闭包/file.7.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="-60">
+          <caret line="5" selection-start-line="5" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/流程的Python/7.函数装饰器和闭包/fibo_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="13" column="22" lean-forward="true" selection-end-line="13" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/流程的Python/7.函数装饰器和闭包/file.8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-446">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-start-column="2" selection-end-line="33" selection-end-column="24" />
           <folding>
-            <element signature="e#2#13#0" expanded="true" />
+            <element signature="e#448#465#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/流程的Python/7.函数装饰器和闭包/file.9.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/流程的Python/7.函数装饰器和闭包/file.8.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="180">
+          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/流程的Python/7.函数装饰器和闭包/reg_parm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/流程的Python/7.函数装饰器和闭包/file.10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="68" column="105" selection-start-line="68" selection-start-column="105" selection-end-line="68" selection-end-column="105" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/流程的Python/7.函数装饰器和闭包/file.11.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/流程的Python/8.对象引用，可变性和垃圾回收/file.1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/流程的Python/９．符合python风格的对象/file.1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="35" selection-start-column="18" selection-end-column="35" />
         </state>
       </provider>
     </entry>
