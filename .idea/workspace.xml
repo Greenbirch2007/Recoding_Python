@@ -7,6 +7,11 @@
   <component name="ChangeListManager">
     <list default="true" id="eb40e46c-78cb-4d66-ac83-329ab06380d8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/流程的Python/17.使用期物处理并发/file.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/流程的Python/17.使用期物处理并发/file.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/流程的Python/17.使用期物处理并发/file.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/流程的Python/17.使用期物处理并发/file.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/流程的Python/18.使用asyncio包处理并发/file.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/流程的Python/18.使用asyncio包处理并发/file.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/流程的Python/19.动态属性和特性/file.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/流程的Python/19.动态属性和特性/file.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/流程的Python/１．python数据模型/file.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/流程的Python/１．python数据模型/file.1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,7 +35,17 @@
     <SUITE FILE_PATH="coverage/Recoding_Python$file_5.coverage" NAME="file.5 Coverage Results" MODIFIED="1538633717518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Cook（练习）/1.数据结构和算法" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/流程的Python/１．python数据模型/file.1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -53,12 +68,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Python高级编程2th/３．语法最佳实现————类级别以上/file.2.py" />
-        <option value="$PROJECT_DIR$/流程的Python/5.一等函数/file.5.py" />
-        <option value="$PROJECT_DIR$/流程的Python/5.一等函数/file.6.py" />
-        <option value="$PROJECT_DIR$/流程的Python/5.一等函数/file.7.py" />
-        <option value="$PROJECT_DIR$/流程的Python/5.一等函数/clip.py" />
-        <option value="$PROJECT_DIR$/流程的Python/5.一等函数/file.8.py" />
         <option value="$PROJECT_DIR$/流程的Python/5.一等函数/file.9.py" />
         <option value="$PROJECT_DIR$/流程的Python/5.一等函数/clip_annot.py" />
         <option value="$PROJECT_DIR$/流程的Python/5.一等函数/tag.py" />
@@ -104,6 +113,12 @@
         <option value="$PROJECT_DIR$/流程的Python/14.可迭代的对象，迭代器和生成器/file.4.py" />
         <option value="$PROJECT_DIR$/流程的Python/14.可迭代的对象，迭代器和生成器/file.5.py" />
         <option value="$PROJECT_DIR$/class类/T1.py" />
+        <option value="$PROJECT_DIR$/流程的Python/17.使用期物处理并发/flags_threadpool.py" />
+        <option value="$PROJECT_DIR$/流程的Python/17.使用期物处理并发/file.1.py" />
+        <option value="$PROJECT_DIR$/流程的Python/17.使用期物处理并发/file.2.py" />
+        <option value="$PROJECT_DIR$/流程的Python/18.使用asyncio包处理并发/file.1.py" />
+        <option value="$PROJECT_DIR$/流程的Python/19.动态属性和特性/file.1.py" />
+        <option value="$PROJECT_DIR$/流程的Python/１．python数据模型/file.1.py" />
       </list>
     </option>
   </component>
@@ -113,10 +128,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="669" />
-    <option name="width" value="771" />
-    <option name="height" value="707" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="574" />
+    <option name="y" value="156" />
+    <option name="width" value="1201" />
+    <option name="height" value="643" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -146,37 +162,7 @@
               <item name="Recoding_Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Recoding_Python" type="462c0819:PsiDirectoryNode" />
               <item name="流程的Python" type="462c0819:PsiDirectoryNode" />
-              <item name="6.使用一等函数实现设计模式" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Recoding_Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Recoding_Python" type="462c0819:PsiDirectoryNode" />
-              <item name="流程的Python" type="462c0819:PsiDirectoryNode" />
-              <item name="10.序列的修改，散列和切片" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Recoding_Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Recoding_Python" type="462c0819:PsiDirectoryNode" />
-              <item name="流程的Python" type="462c0819:PsiDirectoryNode" />
-              <item name="11.接口：从协议到抽象基类" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Recoding_Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Recoding_Python" type="462c0819:PsiDirectoryNode" />
-              <item name="流程的Python" type="462c0819:PsiDirectoryNode" />
-              <item name="12.继承的优缺点" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Recoding_Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Recoding_Python" type="462c0819:PsiDirectoryNode" />
-              <item name="流程的Python" type="462c0819:PsiDirectoryNode" />
-              <item name="14.可迭代的对象，迭代器和生成器" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Recoding_Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Recoding_Python" type="462c0819:PsiDirectoryNode" />
-              <item name="流程的Python" type="462c0819:PsiDirectoryNode" />
-              <item name="９．符合python风格的对象" type="462c0819:PsiDirectoryNode" />
+              <item name="１．python数据模型" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -186,7 +172,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/class类" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../LIST_learning" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
@@ -362,10 +348,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="669" y="0" width="771" height="707" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1366" height="718" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.20711975" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20669144" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -438,58 +423,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/流程的Python/5.一等函数/file.6.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="42" column="28" selection-start-line="42" selection-start-column="28" selection-end-line="42" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/流程的Python/5.一等函数/file.7.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" selection-start-line="5" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/流程的Python/5.一等函数/file.8.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" selection-start-line="31" selection-end-line="46" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/流程的Python/5.一等函数/clip.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="37" selection-start-line="37" selection-end-line="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/流程的Python/2.序列构成的数组/file.10.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/流程的Python/5.一等函数/clip_annot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/流程的Python/5.一等函数/file.5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="497">
-          <caret line="41" column="26" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/流程的Python/5.一等函数/file.10.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2160">
-          <caret line="144" column="76" selection-start-line="144" selection-start-column="76" selection-end-line="144" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/流程的Python/6.使用一等函数实现设计模式/file.1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -777,17 +710,65 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/流程的Python/12.继承的优缺点/file.1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="65" column="8" selection-start-line="65" selection-start-column="8" selection-end-line="65" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/class类/T1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="133" column="3" lean-forward="true" selection-start-line="133" selection-start-column="3" selection-end-line="133" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/流程的Python/12.继承的优缺点/file.1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="65" column="8" selection-start-line="65" selection-start-column="8" selection-end-line="65" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/流程的Python/17.使用期物处理并发/file.1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="57" selection-start-line="32" selection-start-column="57" selection-end-line="32" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/流程的Python/18.使用asyncio包处理并发/file.1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/流程的Python/19.动态属性和特性/file.1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/流程的Python/17.使用期物处理并发/file.2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/流程的Python/5.一等函数/clip.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/流程的Python/4.文本和字节序列/file.1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/流程的Python/17.使用期物处理并发/flags_threadpool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/流程的Python/１．python数据模型/file.1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
