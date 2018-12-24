@@ -8,16 +8,11 @@
   <component name="ChangeListManager">
     <list default="true" id="eb40e46c-78cb-4d66-ac83-329ab06380d8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/流程的Python/3.字典和集合/file.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/流程的Python/3.字典和集合/file.1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/流程的Python/3.字典和集合/file.10.py" beforeDir="false" afterPath="$PROJECT_DIR$/流程的Python/3.字典和集合/file.10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/流程的Python/3.字典和集合/file.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/流程的Python/3.字典和集合/file.2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/流程的Python/3.字典和集合/file.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/流程的Python/3.字典和集合/file.3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/流程的Python/3.字典和集合/file.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/流程的Python/3.字典和集合/file.4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/流程的Python/3.字典和集合/file.5.py" beforeDir="false" afterPath="$PROJECT_DIR$/流程的Python/3.字典和集合/file.5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/流程的Python/3.字典和集合/file.6.py" beforeDir="false" afterPath="$PROJECT_DIR$/流程的Python/3.字典和集合/file.6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/流程的Python/3.字典和集合/file.7.py" beforeDir="false" afterPath="$PROJECT_DIR$/流程的Python/3.字典和集合/file.7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/流程的Python/3.字典和集合/file.8.py" beforeDir="false" afterPath="$PROJECT_DIR$/流程的Python/3.字典和集合/file.8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/流程的Python/3.字典和集合/file.9.py" beforeDir="false" afterPath="$PROJECT_DIR$/流程的Python/3.字典和集合/file.9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/流程的Python/19.动态属性和特性/file.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/流程的Python/19.动态属性和特性/file.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/流程的Python/19.动态属性和特性/file.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/流程的Python/19.动态属性和特性/file.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/流程的Python/4.文本和字节序列/file.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/流程的Python/4.文本和字节序列/file.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/流程的Python/4.文本和字节序列/file.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/流程的Python/4.文本和字节序列/file.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/流程的Python/4.文本和字节序列/file.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/流程的Python/4.文本和字节序列/file.3.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,91 +38,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/流程的Python/2.序列构成的数组/file.2.py">
+        <entry file="file://$PROJECT_DIR$/流程的Python/19.动态属性和特性/file.1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="88" lean-forward="true" selection-start-line="88" selection-end-line="88" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/流程的Python/3.字典和集合/file.2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/流程的Python/3.字典和集合/file.3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/流程的Python/3.字典和集合/file.5.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="22" column="63" selection-start-line="22" selection-start-column="63" selection-end-line="22" selection-end-column="63" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/流程的Python/3.字典和集合/file.6.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="47" selection-start-line="2" selection-start-column="47" selection-end-line="2" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/流程的Python/3.字典和集合/file.7.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/流程的Python/3.字典和集合/file.8.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="52" selection-start-line="52" selection-end-line="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/流程的Python/3.字典和集合/file.9.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="49" column="1" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
+            <state relative-caret-position="405">
+              <caret line="27" column="54" selection-start-line="27" selection-start-column="54" selection-end-line="27" selection-end-column="54" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/流程的Python/3.字典和集合/file.10.py">
+        <entry file="file://$PROJECT_DIR$/流程的Python/19.动态属性和特性/file.2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="51" lean-forward="true" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/流程的Python/3.字典和集合/file.4.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="54" selection-start-line="54" selection-end-line="54" />
+            <state>
+              <caret column="16" lean-forward="true" selection-start-column="3" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -155,10 +78,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/流程的Python/7.函数装饰器和闭包/file.11.py" />
-        <option value="$PROJECT_DIR$/流程的Python/8.对象引用，可变性和垃圾回收/file.1.py" />
-        <option value="$PROJECT_DIR$/流程的Python/９．符合python风格的对象/file.1.py" />
-        <option value="$PROJECT_DIR$/流程的Python/９．符合python风格的对象/file.2.py" />
         <option value="$PROJECT_DIR$/流程的Python/９．符合python风格的对象/file.3.py" />
         <option value="$PROJECT_DIR$/流程的Python/９．符合python风格的对象/file.4.py" />
         <option value="$PROJECT_DIR$/流程的Python/９．符合python风格的对象/file.5.py" />
@@ -182,7 +101,6 @@
         <option value="$PROJECT_DIR$/流程的Python/17.使用期物处理并发/file.1.py" />
         <option value="$PROJECT_DIR$/流程的Python/17.使用期物处理并发/file.2.py" />
         <option value="$PROJECT_DIR$/流程的Python/18.使用asyncio包处理并发/file.1.py" />
-        <option value="$PROJECT_DIR$/流程的Python/19.动态属性和特性/file.1.py" />
         <option value="$PROJECT_DIR$/流程的Python/１．python数据模型/file.1.py" />
         <option value="$PROJECT_DIR$/流程的Python/１．python数据模型/vector.py" />
         <option value="$PROJECT_DIR$/流程的Python/１．python数据模型/file.2.py" />
@@ -206,6 +124,11 @@
         <option value="$PROJECT_DIR$/流程的Python/3.字典和集合/file.8.py" />
         <option value="$PROJECT_DIR$/流程的Python/3.字典和集合/file.9.py" />
         <option value="$PROJECT_DIR$/流程的Python/3.字典和集合/file.10.py" />
+        <option value="$PROJECT_DIR$/流程的Python/4.文本和字节序列/file.1.py" />
+        <option value="$PROJECT_DIR$/流程的Python/4.文本和字节序列/file.2.py" />
+        <option value="$PROJECT_DIR$/流程的Python/4.文本和字节序列/file.3.py" />
+        <option value="$PROJECT_DIR$/流程的Python/19.动态属性和特性/file.1.py" />
+        <option value="$PROJECT_DIR$/流程的Python/19.动态属性和特性/file.2.py" />
       </list>
     </option>
   </component>
@@ -249,7 +172,7 @@
               <item name="Recoding_Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Recoding_Python" type="462c0819:PsiDirectoryNode" />
               <item name="流程的Python" type="462c0819:PsiDirectoryNode" />
-              <item name="3.字典和集合" type="462c0819:PsiDirectoryNode" />
+              <item name="19.动态属性和特性" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Recoding_Python" type="b2602c69:ProjectViewProjectNode" />
@@ -517,27 +440,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/流程的Python/９．符合python风格的对象/file.2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/流程的Python/９．符合python风格的对象/file.3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/流程的Python/９．符合python风格的对象/file.6.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="19" selection-start-column="19" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/流程的Python/９．符合python风格的对象/file.7.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -671,13 +573,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/流程的Python/19.动态属性和特性/file.1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/流程的Python/17.使用期物处理并发/file.2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -686,9 +581,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/流程的Python/5.一等函数/clip.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/流程的Python/4.文本和字节序列/file.1.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/流程的Python/17.使用期物处理并发/flags_threadpool.py">
@@ -794,14 +686,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/流程的Python/2.序列构成的数组/file.2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="88" lean-forward="true" selection-start-line="88" selection-end-line="88" />
+        <state relative-caret-position="1320">
+          <caret line="88" selection-start-line="88" selection-end-line="88" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/流程的Python/3.字典和集合/file.2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
+        <state relative-caret-position="195">
           <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
         </state>
       </provider>
@@ -813,16 +705,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/流程的Python/3.字典和集合/file.4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="54" selection-start-line="54" selection-end-line="54" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/流程的Python/3.字典和集合/file.5.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
+        <state relative-caret-position="330">
           <caret line="22" column="63" selection-start-line="22" selection-start-column="63" selection-end-line="22" selection-end-column="63" />
         </state>
       </provider>
@@ -836,21 +721,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/流程的Python/3.字典和集合/file.7.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
+        <state relative-caret-position="240">
           <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/流程的Python/3.字典和集合/file.8.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
+        <state relative-caret-position="780">
           <caret line="52" selection-start-line="52" selection-end-line="52" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/流程的Python/3.字典和集合/file.9.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
+        <state relative-caret-position="735">
           <caret line="49" column="1" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
         </state>
       </provider>
@@ -859,6 +744,48 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="51" lean-forward="true" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/流程的Python/3.字典和集合/file.4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/流程的Python/4.文本和字节序列/file.1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/流程的Python/4.文本和字节序列/file.2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="11" selection-start-column="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/流程的Python/4.文本和字节序列/file.3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/流程的Python/19.动态属性和特性/file.1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="54" selection-start-line="27" selection-start-column="54" selection-end-line="27" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/流程的Python/19.动态属性和特性/file.2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" lean-forward="true" selection-start-column="3" selection-end-column="16" />
         </state>
       </provider>
     </entry>
